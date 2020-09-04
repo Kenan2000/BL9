@@ -2,7 +2,7 @@
 A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Evil 4 by Capcom
 
 ## Prerequisites 
-**None but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
+**None but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Cata++, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
 
 ## What you'll experience and main features
 
@@ -42,12 +42,13 @@ Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help fr
 **5) https://github.com/captainsawbones/Sly_Mutation_Mod_Medley**
 
 **6) https://github.com/foulman/Fantasy**
+**7) https://github.com/Noctifer-de-Mortem/nocts_cata_mod**
 
-**7) https://github.com/foulman/Psioniclysm**
+**8) https://github.com/foulman/Psioniclysm**
 
-**8) https://discourse.cataclysmdda.org/t/fallout-new-england/17509**
+**9) https://discourse.cataclysmdda.org/t/fallout-new-england/17509**
 
-**9) https://github.com/dissociativity/PKs_Rebalancing**
+**10) https://github.com/dissociativity/PKs_Rebalancing**
 
 ## Link to my personal greatly updated soundpack
 
