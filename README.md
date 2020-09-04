@@ -22,7 +22,7 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 **8) Unique Herb Healing system done by me - You can instantly heal a certain part of your HP while in combat but be careful to not overdo it in combat - you get a stacking temporary debuff which gets only longer the more you use the herbs**
 
-**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/WJlVHKxL#gqn3SgbSIyDfgBzoJC1UkEMjbBavZRaeoB2okaeyubI **
+**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/WJlVHKxL#gqn3SgbSIyDfgBzoJC1UkEMjbBavZRaeoB2okaeyubI**
 
 
 ## Mod developers, assistants, my greatest supporters
@@ -32,13 +32,21 @@ Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help fr
 ## Links to work of my supporters 
 
 **1) https://discourse.cataclysmdda.org/t/secronom-zombies-mod-thread/16211**
+
 **2) https://github.com/SomeDeadGuy/UndeadPeopleTileset**
+
 **3) https://github.com/chaosvolt/cdda-arcana-mod**
+
 **4) https://github.com/TheGoatGod/Goats-Mod-Compilation**
+
 **5) https://github.com/captainsawbones/Sly_Mutation_Mod_Medley**
+
 **6) https://github.com/foulman/Fantasy**
+
 **7) https://github.com/foulman/Psioniclysm**
+
 **8) https://discourse.cataclysmdda.org/t/fallout-new-england/17509**
+
 **9) https://github.com/dissociativity/PKs_Rebalancing**
 
 ## Link to my personal greatly updated soundpack
