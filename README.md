@@ -2,7 +2,7 @@
 A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Evil 4 by Capcom
 
 ## Prerequisites 
-**None but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
+**None but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Cata++, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
 
 ## What you'll experience and main features
 
@@ -22,7 +22,7 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 **8) Unique Herb Healing system done by me - You can instantly heal a certain part of your HP while in combat but be careful to not overdo it in combat - you get a stacking temporary debuff which gets only longer the more you use the herbs**
 
-**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/WJlVHKxL#gqn3SgbSIyDfgBzoJC1UkEMjbBavZRaeoB2okaeyubI**
+**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/yF8k2YDT#Q7hpe2TNK-aqV2Cq6gOQ_qFcz0-IGoCIL3LQZ4jMR10**
 
 
 ## Mod developers, assistants, my greatest supporters
@@ -43,12 +43,18 @@ Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help fr
 
 **6) https://github.com/foulman/Fantasy**
 
-**7) https://github.com/foulman/Psioniclysm**
+**7) https://github.com/Noctifer-de-Mortem/nocts_cata_mod**
 
-**8) https://discourse.cataclysmdda.org/t/fallout-new-england/17509**
+**8) https://github.com/foulman/Psioniclysm**
 
-**9) https://github.com/dissociativity/PKs_Rebalancing**
+**9) https://discourse.cataclysmdda.org/t/fallout-new-england/17509**
+
+**10) https://github.com/dissociativity/PKs_Rebalancing**
 
 ## Link to my personal greatly updated soundpack
 
 **https://github.com/Kenan2000/Otopack-Mods-Updates**
+
+## Link to Bright Nights CDDA fork by Coolcthulhu
+
+**https://github.com/cataclysmbnteam/Cataclysm-BN**
