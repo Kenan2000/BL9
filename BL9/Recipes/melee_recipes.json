@@ -1,6 +1,7 @@
 [
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_tendril_sword",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -16,6 +17,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_worm_whip",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_BASHING",
@@ -31,6 +33,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_claws_melee",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -46,6 +49,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_repto_spear",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_PIERCING",
@@ -61,6 +65,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_spiky_sword",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -76,6 +81,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_tail_whip",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_PIERCING",
@@ -91,6 +97,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_tentacle_axe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -106,6 +113,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_bladed_tentacle_claws",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -121,6 +129,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_spiked_worm_polearm",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_PIERCING",
@@ -136,6 +145,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_tentacle_spike_flail",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_BASHING",
@@ -151,6 +161,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_repto_evo_spear",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_PIERCING",
@@ -166,6 +177,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_pincer_sword",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -181,6 +193,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_claws_evo",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -196,6 +209,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_spiked_sledgehammer",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_BASHING",
@@ -211,6 +225,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_tail_whip_enhanced",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_PIERCING",
@@ -226,6 +241,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_tentacle_axe_enhanced",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -241,6 +257,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_tentacle_spike_flail_enhanced",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_BASHING",
@@ -256,6 +273,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_repto_evo_spear_enhanced",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_PIERCING",
@@ -271,6 +289,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_pincer_sword_enhanced",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -286,6 +305,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "BL9_claws_evo_enhanced",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -301,6 +321,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "9mmBL9mk3mag",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
@@ -316,6 +337,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "9mmBL9smgmk3mag",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
@@ -331,6 +353,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "308BL9mk3mag",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
@@ -346,6 +369,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "556223BL9mk3mag",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
@@ -361,6 +385,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "tank_BL9_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
@@ -376,6 +401,7 @@
   },
   {
     "type": "recipe",
+	"activity_level": "LIGHT_EXERCISE",
     "result": "40_BL9mk3mag",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
