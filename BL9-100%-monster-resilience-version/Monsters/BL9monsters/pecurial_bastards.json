@@ -256,7 +256,7 @@
     "default_faction": "BL9_cultists",
     "species": [ "MUTANT", "ZOMBIE" ],
     "volume": "170000 ml",
-    "weight": 142500,
+    "weight": "142500 g",
     "hp": 1000,
     "speed": 85,
     "material": [ "flesh" ],
