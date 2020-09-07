@@ -531,7 +531,7 @@
     "type": "terrain",
     "id": "t_BL9_hole",
     "name": "empty space",
-    "looks_like": "tr_ledge",
+    "looks_like": "t_open_air",
     "description": "This is empty space.",
     "symbol": "LINE_OXOX",
     "color": "light_cyan",
