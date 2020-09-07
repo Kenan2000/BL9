@@ -4,6 +4,8 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 ## Prerequisites 
 **None but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Cata++, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
 
+**IMPORTANT - PUT ONLY ONE OUT OF 3 VERSIONS DEPENDING ON YOUR CHOSEN MONSTER_RESILENCE MODIFIER DURING WORLD GENERATION**
+
 ## What you'll experience and main features
 
 **1) Adds over 175+ overmaps - huge crazed Ancient Castlelan Castle, Military heavily guarded Island, various custom unique structures-biomes infested by ALL kinds of monsters with GREAT rewards and bosses to fight**
