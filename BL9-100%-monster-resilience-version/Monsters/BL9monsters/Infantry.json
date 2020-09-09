@@ -310,7 +310,7 @@
         "fake_per": 8,
         "require_targeting_player": false,
         "description": "The ganados fires its crossbow!",
-        "ranges": [ [ 3, 20, "DEFAULT" ] ]
+        "ranges": [ [ 3, 14, "DEFAULT" ] ]
       }
     ],
     "death_drops": "BL9_Drops_Cult",
@@ -355,7 +355,7 @@
         "fake_per": 8,
         "require_targeting_player": false,
         "description": "The ganados fires its crossbow!",
-        "ranges": [ [ 3, 20, "DEFAULT" ] ]
+        "ranges": [ [ 3, 14, "DEFAULT" ] ]
       }
     ],
     "death_drops": "BL9_Drops_Cultistpatrolgrunt",
@@ -716,7 +716,7 @@
         "fake_per": 8,
         "require_targeting_player": false,
         "description": "The ganados fires its crossbow!",
-        "ranges": [ [ 3, 20, "DEFAULT" ] ]
+        "ranges": [ [ 3, 14, "DEFAULT" ] ]
       }
     ],
     "death_drops": "BL9_Drops_Military",
@@ -761,7 +761,7 @@
         "fake_per": 8,
         "require_targeting_player": false,
         "description": "The ganados fires its crossbow!",
-        "ranges": [ [ 3, 20, "DEFAULT" ] ]
+        "ranges": [ [ 3, 14, "DEFAULT" ] ]
       }
     ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
@@ -1068,7 +1068,7 @@
         "fake_per": 8,
         "require_targeting_player": false,
         "description": "The ganados fires its minigun!",
-        "ranges": [ [ 3, 14, "DEFAULT" ] ]
+        "ranges": [ [ 3, 11, "DEFAULT" ] ]
       }
     ],
     "death_drops": "BL9_Drops_Milbehemoth",
@@ -1113,7 +1113,7 @@
         "fake_per": 8,
         "require_targeting_player": false,
         "description": "The ganados fires its minigun!",
-        "ranges": [ [ 3, 14, "DEFAULT" ] ]
+        "ranges": [ [ 3, 11, "DEFAULT" ] ]
       }
     ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
