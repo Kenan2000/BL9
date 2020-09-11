@@ -98,7 +98,7 @@
   {
     "type": "item_group",
     "id": "BL9_herbs",
-    "items": [ [ "mild_curing_herb", 65 ], [ "medium_curing_herb", 35 ], [ "strong_curing_herb", 15 ] ]
+    "items": [ [ "mild_curing_herb", 45 ], [ "medium_curing_herb", 25 ], [ "strong_curing_herb", 10 ] ]
   },
   {
     "type": "item_group",
@@ -227,16 +227,7 @@
   {
     "id": "BL9_lore_journal_patrol",
     "type": "item_group",
-    "items": [
-      [ "BL9_agent_journal1", 65 ],
-      [ "BL9_agent_journal2", 65 ],
-      [ "BL9_agent_journal3", 65 ],
-      [ "BL9_agent_journal4", 65 ],
-      [ "BL9_agent_journal5", 65 ],
-      [ "BL9_agent_journal6", 65 ],
-      [ "BL9_agent_journal7", 65 ],
-      [ "BL9_agent_journal8", 65 ],
-      [ "BL9_agent_journal9", 65 ]
-    ]
+	"subtype": "collection",
+    "entries": [ { "item": "BL9_guide_note3", "prob": 80 }, { "item": "BL9_guide_note4", "prob": 80 }, { "item": "BL9_guide_note5", "prob": 80 }, { "item": "BL9_agent_journal1", "prob": 45 }, { "item": "BL9_agent_journal2", "prob": 45 }, { "item": "BL9_agent_journal3", "prob": 45 }, { "item": "BL9_agent_journal4", "prob": 45 }, { "item": "BL9_agent_journal5", "prob": 45 }, { "item": "BL9_agent_journal6", "prob": 45 }, { "item": "BL9_agent_journal7", "prob": 45 }, { "item": "BL9_agent_journal8", "prob": 45 }, { "item": "BL9_agent_journal9", "prob": 45 } ]
   }
 ]

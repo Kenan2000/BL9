@@ -190,7 +190,7 @@
       },
       {
         "text": "*BL9-infused survivor helmet MK ii*",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorhelmet",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorhelmet_mk2",
         "condition": {
           "and": [
             { "u_has_item": "BL9_survivorhelmet" },
@@ -208,7 +208,7 @@
       },
       {
         "text": "*BL9-infused survivor cargo pants MK ii*",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorpants",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorpants_mk2",
         "condition": {
           "and": [
             { "u_has_item": "BL9_survivorpants" },
@@ -220,19 +220,19 @@
         }
       },
       {
-        "text": "*BL9-infused survivor duster*",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorduster",
-        "condition": { "not": { "u_has_var": "bl9_trader", "type": "bought", "context": "BL9_survivorduster", "value": "yes" } }
+        "text": "*BL9-infused survivor suit*",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorsuit",
+        "condition": { "not": { "u_has_var": "bl9_trader", "type": "bought", "context": "BL9_survivorsuit", "value": "yes" } }
       },
       {
-        "text": "*BL9-infused survivor duster MK ii*",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorduster",
+        "text": "*BL9-infused survivor suit MK ii*",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorsuit_mk2",
         "condition": {
           "and": [
-            { "u_has_item": "BL9_survivorduster" },
-            { "u_has_var": "bl9_trader", "type": "bought", "context": "BL9_survivorduster", "value": "yes" },
+            { "u_has_item": "BL9_survivorsuit" },
+            { "u_has_var": "bl9_trader", "type": "bought", "context": "BL9_survivorsuit", "value": "yes" },
             {
-              "not": { "u_has_var": "bl9_trader", "type": "bought", "context": "BL9_survivorduster_mk2", "value": "yes" }
+              "not": { "u_has_var": "bl9_trader", "type": "bought", "context": "BL9_survivorsuit_mk2", "value": "yes" }
             }
           ]
         }
@@ -244,7 +244,7 @@
       },
       {
         "text": "*pair of BL9-infused survivor gloves MK ii*",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorgloves",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorgloves_mk2",
         "condition": {
           "and": [
             { "u_has_item": "BL9_survivorgloves" },
@@ -262,7 +262,7 @@
       },
       {
         "text": "*pair of BL9-infused survivor boots MK ii*",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorboots",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorboots_mk2",
         "condition": {
           "and": [
             { "u_has_item": "BL9_survivorboots" },
@@ -280,7 +280,7 @@
       },
       {
         "text": "*BL9-infused body armor MK ii*",
-        "topic": "TALK_BL9_TRADER_buy_BL9_bodyarmor",
+        "topic": "TALK_BL9_TRADER_buy_BL9_bodyarmor_mk2",
         "condition": {
           "and": [
             { "u_has_item": "BL9_bodyarmor" },

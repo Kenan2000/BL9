@@ -88,7 +88,7 @@
     ]
   },
   {
-    "id": "TALK_BL9_TRADER_buy_BL9_survivorduster",
+    "id": "TALK_BL9_TRADER_buy_BL9_survivorsuit",
     "type": "talk_topic",
     "dynamic_line": {
       "and": [
@@ -104,20 +104,20 @@
     },
     "responses": [
       {
-        "text": "[18Gcomb] BL9-infused survivor duster",
+        "text": "[18Gcomb] BL9-infused survivor suit",
         "topic": "TALK_BL9_TRADER_buy",
         "condition": { "u_has_items": { "item": "goldcoincomb", "count": 18 } },
         "effect": [
           { "u_sell_item": "goldcoincomb", "count": 18 },
           { "npc_consume_item": "goldcoincomb", "count": 18 },
-          { "u_buy_item": "BL9_survivorduster", "count": 1 },
+          { "u_buy_item": "BL9_survivorsuit", "count": 1 },
           { "u_add_var": "bl9_trader", "type": "general", "context": "bought", "value": "yes" },
-          { "u_add_var": "bl9_trader", "type": "bought", "context": "BL9_survivorduster", "value": "yes" }
+          { "u_add_var": "bl9_trader", "type": "bought", "context": "BL9_survivorsuit", "value": "yes" }
         ]
       },
       {
-        "text": "[18Gcomb] BL9-infused survivor duster",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorduster",
+        "text": "[18Gcomb] BL9-infused survivor suit",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorsuit",
         "condition": { "not": { "u_has_items": { "item": "goldcoincomb", "count": 18 } } },
         "effect": { "u_add_var": "bl9_trader", "type": "bought", "context": "nocash", "value": "yes" }
       },
@@ -356,7 +356,7 @@
     ]
   },
   {
-    "id": "TALK_BL9_TRADER_buy_BL9_survivorduster_mk2",
+    "id": "TALK_BL9_TRADER_buy_BL9_survivorsuit_mk2",
     "type": "talk_topic",
     "dynamic_line": {
       "and": [
@@ -372,22 +372,22 @@
     },
     "responses": [
       {
-        "text": "[36Pcomb] BL9-infused survivor duster MK ii",
+        "text": "[36Pcomb] BL9-infused survivor suit MK ii",
         "topic": "TALK_BL9_TRADER_buy",
         "condition": { "u_has_items": { "item": "platcoincomb", "count": 36 } },
         "effect": [
           { "u_sell_item": "platcoincomb", "count": 36 },
           { "npc_consume_item": "platcoincomb", "count": 36 },
-          { "u_sell_item": "BL9_survivorduster" },
-          { "npc_consume_item": "BL9_survivorduster" },
-          { "u_buy_item": "BL9_survivorduster_mk2", "count": 1 },
+          { "u_sell_item": "BL9_survivorsuit" },
+          { "npc_consume_item": "BL9_survivorsuit" },
+          { "u_buy_item": "BL9_survivorsuit_mk2", "count": 1 },
           { "u_add_var": "bl9_trader", "type": "general", "context": "bought", "value": "yes" },
-          { "u_add_var": "bl9_trader", "type": "bought", "context": "BL9_survivorduster_mk2", "value": "yes" }
+          { "u_add_var": "bl9_trader", "type": "bought", "context": "BL9_survivorsuit_mk2", "value": "yes" }
         ]
       },
       {
-        "text": "[36Pcomb] BL9-infused survivor duster MK ii",
-        "topic": "TALK_BL9_TRADER_buy_BL9_survivorduster_mk2",
+        "text": "[36Pcomb] BL9-infused survivor suit MK ii",
+        "topic": "TALK_BL9_TRADER_buy_BL9_survivorsuit_mk2",
         "condition": { "not": { "u_has_items": { "item": "platcoincomb", "count": 36 } } },
         "effect": { "u_add_var": "bl9_trader", "type": "bought", "context": "nocash", "value": "yes" }
       },
