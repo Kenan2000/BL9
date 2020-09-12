@@ -24,12 +24,12 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 **8) Unique Herb Healing system done by me - You can instantly heal a certain part of your HP while in combat but be careful to not overdo it in combat - you get a stacking temporary debuff which gets only longer the more you use the herbs**
 
-**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/iIlRiaDS#hC_nZpCc8BBc6PhVRnKL9tq6LsbhGTaO2lU0F2UnOG0**
+**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/aEll2ADB#yRY9dXIG7UKbOl58FbtEPBR3osLSmWSaM2rLl90EWIk**
 
 
 ## Mod developers, assistants, my greatest supporters
 
-Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help from **Chaosvolt**, AMAZING assistance **from GoatGod, Mutaman, Aptronym** along with my loyal and GREATEST supporters and someone who inspired me - **Cuddlebaby/Go-Goat, SomeDeadGuy, SzQ, Mechmaster, ChidingAmoeba, Tefnut, Dissociativity, Meem** , I would like to thank CDDA developers as well - **Mark/mlangsdorf** for spreading information about my project and helping me out with my questions, **anothersimularcrum, cursedwist, esotericist** for helping me out with my questions, **Kevin Granade** for working on **blind/screen reader accessibility for CDDA** - you guys are **THE BEST**
+Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help from **Chaosvolt**, AMAZING assistance **from GoatGod, Mutaman, Aptronym** along with my loyal and GREATEST supporters and someone who inspired me - **Cuddlebaby/Go-Goat, SomeDeadGuy, SzQ, Mechmaster, ChidingAmoeba, Tefnut, Maleclypse, Dissociativity, Meem** , I would like to thank CDDA developers as well - **Mark/mlangsdorf** for spreading information about my project and helping me out with my questions, **anothersimularcrum, cursedwist, esotericist** for helping me out with my questions, **Kevin Granade** for working on **blind/screen reader accessibility for CDDA** - you guys are **THE BEST**
 
 ## Links to work of my supporters 
 
