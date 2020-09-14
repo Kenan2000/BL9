@@ -5,10 +5,10 @@
     "override": false,
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_BL9_patrolmilitary_stab", "freq": 17, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolcultist_cut", "freq": 17, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 17, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_cultist_patrolleader", "freq": 17, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
+      { "monster": "mon_BL9_patrolmilitary_stab", "freq": 22, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolcultist_cut", "freq": 22, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 22, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_cultist_patrolleader", "freq": 22, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
     ]
   },
   {
@@ -17,10 +17,10 @@
     "override": false,
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_BL9_patrolcultist_cut", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolmilitary_stab", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_military_patrolleader", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
+      { "monster": "mon_BL9_patrolcultist_cut", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolmilitary_stab", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_military_patrolleader", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
     ]
   },
   {
@@ -29,10 +29,10 @@
     "override": false,
     "default": "mon_sewer_rat",
     "monsters": [
-      { "monster": "mon_BL9_patrolcultist_stab", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolcultist_cut", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolcultist_crossbow", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_cultist_patrolleader", "freq": 20, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
+      { "monster": "mon_BL9_patrolcultist_stab", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolcultist_cut", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolcultist_crossbow", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_cultist_patrolleader", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
     ]
   },
   {
@@ -65,10 +65,10 @@
     "override": false,
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_BL9_patrolcultist_stab", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolcultist_cut", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_cultist_patrolleader", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
+      { "monster": "mon_BL9_patrolcultist_stab", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolcultist_cut", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_cultist_patrolleader", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
     ]
   },
   {
@@ -77,10 +77,10 @@
     "override": false,
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_BL9_patrolmilitary_shockrod", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolcultist_cut", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolcultist_crossbow", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_cultist_patrolleader", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
+      { "monster": "mon_BL9_patrolmilitary_shockrod", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolcultist_cut", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolcultist_crossbow", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_cultist_patrolleader", "freq": 21, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
     ]
   },
   {
@@ -89,10 +89,10 @@
     "override": false,
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_BL9_patrolmilitary_shockrod", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolcultist_cut", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_cultist_patrolleader", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
+      { "monster": "mon_BL9_patrolmilitary_shockrod", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolcultist_cut", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_cultist_patrolleader", "freq": 23, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
     ]
   },
   {
@@ -101,10 +101,10 @@
     "//": "50% chance military zombie or robot",
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_BL9_patrolmilitary_stab", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolmilitary_shockrod", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
-      { "monster": "mon_BL9_military_patrolleader", "freq": 18, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
+      { "monster": "mon_BL9_patrolmilitary_stab", "freq": 25, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolmilitary_shockrod", "freq": 25, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_patrolmilitary_crossbow", "freq": 25, "cost_multiplier": 10, "pack_size": [ 1, 2 ] },
+      { "monster": "mon_BL9_military_patrolleader", "freq": 25, "cost_multiplier": 10, "pack_size": [ 1, 2 ] }
     ]
   },
   {
