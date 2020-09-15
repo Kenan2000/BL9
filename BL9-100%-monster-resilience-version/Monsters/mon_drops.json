@@ -285,6 +285,7 @@
 	  { "group": "BL9_lore_journal_patrol", "prob": 100 },
       { "item": "BL9_castlemap", "prob": 35 },
       { "item": "BL9_biomesmap", "prob": 15 },
+	  { "item": "BL9_islandmap", "prob": 15 },
       {
         "distribution": [
           {

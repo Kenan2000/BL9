@@ -297,7 +297,7 @@
     "symbol": ";",
     "color": "red",
     "name": { "str_sp": "The BL9 Secret Island Map" },
-    "description": "It seems like you've finally managed to find Their main presumed base of operations...it is a huge distant Island, fortifications and structures of which will impress even the most professional military engineers",
+    "description": "It seems like you've finally managed to find 'THEIR' main presumed base of operations...it is a huge distant Island, fortifications and structures of which will impress even the most professional military engineers",
     "material": "paper",
     "weight": "30 g",
     "volume": "250 ml",
@@ -317,7 +317,7 @@
     "symbol": ";",
     "color": "green",
     "name": { "str_sp": "The BL9 Hidden Structures Map" },
-    "description": "So there are more secret structures where BL9 can be found?My God, is this really that widespread?EE time - Exploration and Eradication it seems then...",
+    "description": "So there are more secret structures where BL9 can be found?My God, is this really that widespread?'EE' time - Exploration and Eradication it seems then...",
     "material": "paper",
     "weight": "30 g",
     "volume": "250 ml",
@@ -333,7 +333,7 @@
         "acid_caves_surface",
         "island_base_storage1"
       ],
-      "message": "You carefully examine the map and spot multiple strange looking entrances that lead to some kinds of underground biomes, more BL9 infestation..."
+      "message": "You carefully examine the map and spot multiple strange looking entrances that lead to some kinds of underground biomes...more BL9 infestation..."
     }
   }
 ]
