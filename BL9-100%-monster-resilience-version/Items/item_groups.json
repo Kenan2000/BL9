@@ -234,7 +234,7 @@
     "id": "BL9_lore_journal_patrol",
     "type": "item_group",
 	"subtype": "collection",
-    "entries": [ { "item": "BL9_guide_note3", "prob": 80 }, { "item": "BL9_guide_note4", "prob": 80 }, { "item": "BL9_guide_note5", "prob": 80 }, { "item": "BL9_agent_journal1", "prob": 45 }, { "item": "BL9_agent_journal2", "prob": 45 }, { "item": "BL9_agent_journal3", "prob": 45 }, { "item": "BL9_agent_journal4", "prob": 45 }, { "item": "BL9_agent_journal5", "prob": 45 }, { "item": "BL9_agent_journal6", "prob": 45 }, { "item": "BL9_agent_journal7", "prob": 45 }, { "item": "BL9_agent_journal8", "prob": 45 }, { "item": "BL9_agent_journal9", "prob": 45 } ]
+    "entries": [ { "item": "BL9_guide_note2", "prob": 75 }, { "item": "BL9_guide_note3", "prob": 75 }, { "item": "BL9_guide_note4", "prob": 75 }, { "item": "BL9_guide_note5", "prob": 75 }, { "item": "BL9_agent_journal1", "prob": 25 }, { "item": "BL9_agent_journal2", "prob": 25 }, { "item": "BL9_agent_journal3", "prob": 25 }, { "item": "BL9_agent_journal4", "prob": 25 }, { "item": "BL9_agent_journal5", "prob": 25 }, { "item": "BL9_agent_journal6", "prob": 25 }, { "item": "BL9_agent_journal7", "prob": 25 }, { "item": "BL9_agent_journal8", "prob": 25 }, { "item": "BL9_agent_journal9", "prob": 25 } ]
   },
   {
     "type": "item_group",

@@ -161,7 +161,7 @@
     "looks_like": "survnote",
     "color": "red",
     "name": { "str": "BL9 Guide - Part 2 - Merchant" },
-    "description": "The Merchant is the key NPC of this mod - he sells weapons of 2 tiers to you for GOLD and PLATINUM coins respectively, TALK to the Merchant to acquire your first basic handgun along with the special soldering iron to repair BL9 items - the coins - you collect them from enemies as well as by finding randomly scattered treasures throughout the mod",
+    "description": "The Merchant is the key NPC of this mod (you find him in The Castle, The Island, various BL9 biomes and structures) - he sells weapons of 2 tiers to you for GOLD and PLATINUM coins COMBINATIONS (you automatically acquire the recipes to craft these) GComb and PComb respectively, TALK to the Merchant to acquire your first basic handgun along with the special soldering iron to repair BL9 items - the coins - you collect them from enemies as well as by finding randomly scattered treasures throughout the mod",
     "material": "paper",
     "weight": "1 g",
     "volume": "1 ml",
