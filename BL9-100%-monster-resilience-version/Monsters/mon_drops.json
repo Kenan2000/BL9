@@ -368,7 +368,6 @@
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure2", "prob": 100 },
-      { "group": "BL9_treasure6", "prob": 100 },
       { "group": "BL9_herbs", "prob": 85 },
       { "item": "BL9_clawer_sample", "prob": 100 }
     ]
@@ -381,7 +380,6 @@
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure1", "prob": 100 },
-      { "group": "BL9_treasure6", "prob": 75 },
       { "group": "BL9_herbs", "prob": 30 }
     ]
   },
@@ -393,7 +391,7 @@
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure2", "prob": 100 },
-      { "group": "BL9_treasure7", "prob": 100 },
+      { "group": "BL9_treasure7", "prob": 3 },
       { "group": "BL9_herbs", "prob": 35 }
     ]
   },
@@ -405,7 +403,7 @@
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure2", "prob": 100 },
-      { "group": "BL9_treasure6", "prob": 75 },
+      { "group": "BL9_treasure6", "prob": 10 },
       { "group": "BL9_herbs", "prob": 85 },
       { "item": "BL9_repto_sample", "prob": 100 }
     ]
@@ -432,7 +430,7 @@
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure4", "prob": 100 },
-      { "group": "BL9_treasure7", "prob": 100 },
+      { "group": "BL9_treasure7", "prob": 35 },
       { "group": "BL9_herbs", "prob": 100 },
       { "item": "BL9_assassin_tail_sample", "prob": 100 }
     ]
@@ -445,7 +443,7 @@
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure4", "prob": 100 },
-      { "group": "BL9_treasure7", "prob": 100 },
+      { "group": "BL9_treasure7", "prob": 30 },
       { "group": "BL9_herbs", "prob": 100 }
     ]
   },
@@ -457,7 +455,7 @@
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure5", "prob": 100 },
-      { "group": "BL9_treasure8", "prob": 100 },
+      { "group": "BL9_treasure8", "prob": 25 },
       { "group": "BL9_herbs", "prob": 100 },
       { "item": "BL9_twisted_tentacle_sample", "prob": 100 }
     ]
