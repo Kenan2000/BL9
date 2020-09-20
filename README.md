@@ -24,7 +24,7 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 **8) Unique Herb Healing system done by me - You can instantly heal a certain part of your HP while in combat but be careful to not overdo it in combat - you get a stacking temporary debuff which gets only longer the more you use the herbs**
 
-**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/mRkTRI6Z#hxRZXqKWlFjpuPRZ2xuZEHp5FyM35w2ipl3dyq87YNI**
+**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/OB8nkCSC#Sa1yhFpVeexjZSVNThPxhAjUMEGDZ6nogkzS6uzrQqw**
 
 
 ## Mod developers, assistants, my greatest supporters
