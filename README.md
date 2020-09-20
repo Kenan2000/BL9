@@ -2,7 +2,7 @@
 A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Evil 4 by Capcom
 
 ## Prerequisites 
-**None but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Cata++, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
+**None, but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Cata++, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
 
 **IMPORTANT - PUT ONLY ONE OUT OF 3 VERSIONS DEPENDING ON YOUR CHOSEN MONSTER_RESILIENCE MODIFIER DURING WORLD GENERATION**
 
