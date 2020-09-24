@@ -10,7 +10,7 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 **1) Adds over 175+ overmaps - huge crazed Ancient Castlelan Castle, Military heavily guarded Island, various custom unique structures-biomes infested by ALL kinds of monsters with GREAT rewards and bosses to fight**
 
-**2) New guns (30 ranged weapons - 3 tiers of them with 2 tiers of sleek and unique craftable ammo - BALLISTICS TOO), unique craftable melee weapons (using all kinds of vanilla techniques) and armor (2 tiers of well-made strong BL9-infused survivor armor)**
+**2) New guns (30 ranged weapons - 3 tiers of them with 2 tiers of sleek and unique craftable ammo - BALLISTICS TOO), unique craftable melee weapons (using all kinds of vanilla martial arts) and armor (2 tiers of well-made strong BL9-infused survivor armor)**
 
 **3) Dangerous monsters and bosses to fight - from cultist and heavily armed military roaming patrols to heavily mutated creatures and tough bosses inspired greatly by Resident Evil by Capcom creatures**
 
