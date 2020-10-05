@@ -60,3 +60,7 @@ Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help fr
 ## Link to Bright Nights CDDA fork by Coolcthulhu
 
 **https://github.com/cataclysmbnteam/Cataclysm-BN**
+
+## Link to my CDDA modding server
+
+**https://discord.com/invite/xj9E3Sp**
