@@ -184,7 +184,7 @@
     "effect": "area_pull",
     "effect_filter": [ "self" ],
     "flags": [ "SILENT" ],
-    "valid_targets": [ "self", "ally", "hostile", "ground" ],
+    "valid_targets": [ "self" ],
     "extra_effects": [ { "id": "mon_giant_charge" }, { "id": "mon_charge_push" } ],
     "min_aoe": 13,
     "max_aoe": 13
@@ -245,7 +245,7 @@
     "effect": "area_pull",
     "effect_filter": [ "self" ],
     "flags": [ "SILENT" ],
-    "valid_targets": [ "self", "ally", "hostile", "ground" ],
+    "valid_targets": [ "self" ],
     "extra_effects": [ { "id": "mon_clawer_charge" }, { "id": "mon_charge_push" } ],
     "min_aoe": 15,
     "max_aoe": 15
