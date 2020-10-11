@@ -1,7 +1,7 @@
 [
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_pistol_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -17,7 +17,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_smg_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -33,7 +33,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_sniper_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -49,7 +49,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_auto_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -65,7 +65,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_shotgun_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -81,7 +81,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_magnum_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -97,7 +97,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_sprayer_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -113,7 +113,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_launcher_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_EXPLOSIVE",
@@ -129,7 +129,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_bow_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -145,7 +145,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "LIGHT_EXERCISE",
+    "activity_level": "LIGHT_EXERCISE",
     "result": "BL9_crossbow_mk3",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",

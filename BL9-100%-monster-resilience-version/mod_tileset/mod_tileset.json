@@ -1,7 +1,14 @@
 [
   {
     "type": "mod_tileset",
-    "compatibility": [ "MshockXottoplus", "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "UNDEAD_PEOPLE_BASE", "UltimateCataclysm", "UltimateCataclysmDemo" ],
+    "compatibility": [
+      "MshockXottoplus",
+      "MSX++DEAD_PEOPLE",
+      "UNDEAD_PEOPLE",
+      "UNDEAD_PEOPLE_BASE",
+      "UltimateCataclysm",
+      "UltimateCataclysmDemo"
+    ],
     "tiles-new": [
       {
         "file": "mod_tileset/terrain32x32.png",

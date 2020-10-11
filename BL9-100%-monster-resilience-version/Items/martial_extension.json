@@ -25,14 +25,7 @@
     "id": "style_swordsmanship",
     "name": { "str": "Medieval Swordsmanship" },
     "copy-from": "style_swordsmanship",
-    "extend": {
-      "weapons": [
-        "BL9_tendril_sword",
-        "BL9_spiky_sword",
-        "BL9_pincer_sword",
-        "BL9_pincer_sword_enhanced"
-      ]
-    }
+    "extend": { "weapons": [ "BL9_tendril_sword", "BL9_spiky_sword", "BL9_pincer_sword", "BL9_pincer_sword_enhanced" ] }
   },
   {
     "type": "martial_art",

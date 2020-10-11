@@ -1,7 +1,7 @@
 [
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "9mmBL9",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_PISTOL",
@@ -15,7 +15,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "9mmBL9mk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_PISTOL",
@@ -29,7 +29,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "9mmBL9smg",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_PISTOL",
@@ -43,7 +43,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "9mmBL9smgmk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_PISTOL",
@@ -57,7 +57,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "308BL9",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_RIFLE",
@@ -71,7 +71,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "308BL9mk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_RIFLE",
@@ -85,7 +85,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9shot",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_SHOT",
@@ -99,7 +99,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9shotmk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_SHOT",
@@ -113,7 +113,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "357magBL9",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_PISTOL",
@@ -127,7 +127,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "357magBL9mk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_PISTOL",
@@ -141,7 +141,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "556BL9",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_RIFLE",
@@ -155,7 +155,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "556BL9mk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_RIFLE",
@@ -169,7 +169,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9_spray",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
@@ -183,7 +183,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9_spraymk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
@@ -197,7 +197,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9_arrow",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_ARROWS",
@@ -211,7 +211,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9_bolt",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
@@ -225,7 +225,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9_arrowmk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_ARROWS",
@@ -239,7 +239,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "BL9_boltmk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
@@ -253,7 +253,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "40mmBL9",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_GRENADES",
@@ -267,7 +267,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "40mmBL9mk2",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_GRENADES",
@@ -281,7 +281,7 @@
   },
   {
     "type": "recipe",
-	"activity_level": "NO_EXERCISE",
+    "activity_level": "NO_EXERCISE",
     "result": "40mmBL9mk3",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_GRENADES",
