@@ -10,6 +10,7 @@
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure1", "prob": 100 },
       { "group": "BL9_herbs", "prob": 25 },
+      { "group": "BL9_common_drops", "prob": 75 },
       {
         "distribution": [
           {
@@ -65,6 +66,7 @@
       { "group": "BL9_patroltreasure1", "prob": 100 },
       { "group": "BL9_herbs", "prob": 15 },
       { "group": "BL9_lore_journal_patrol", "prob": 75 },
+      { "group": "BL9_common_drops", "prob": 75 },
       {
         "distribution": [
           {
@@ -121,6 +123,7 @@
       { "group": "BL9_herbs", "prob": 25 },
       { "group": "BL9_lore_journal_patrol", "prob": 100 },
       { "item": "BL9_castlemap", "prob": 25 },
+      { "group": "BL9_common_drops", "prob": 75 },
       {
         "distribution": [
           {
@@ -169,12 +172,13 @@
     "subtype": "collection",
     "id": "BL9_Drops_Military",
     "entries": [
-      { "group": "decontamination_room", "damage": [ 0, 1 ], "prob": 75 },
+      { "group": "sopmod", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "infantry_common_gear", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure6", "prob": 100 },
       { "group": "BL9_herbs", "prob": 30 },
+      { "group": "BL9_uncommon_drops", "prob": 75 },
       {
         "distribution": [
           {
@@ -223,13 +227,14 @@
     "subtype": "collection",
     "id": "BL9_Drops_Militarypatrolgrunt",
     "entries": [
-      { "group": "decontamination_room", "damage": [ 0, 1 ], "prob": 75 },
+      { "group": "sopmod", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "infantry_common_gear", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_patroltreasure6", "prob": 100 },
       { "group": "BL9_herbs", "prob": 20 },
       { "group": "BL9_lore_journal_patrol", "prob": 90 },
+      { "group": "BL9_uncommon_drops", "prob": 75 },
       {
         "distribution": [
           {
@@ -278,7 +283,7 @@
     "subtype": "collection",
     "id": "BL9_Drops_Militarypatrollead",
     "entries": [
-      { "group": "decontamination_room", "damage": [ 0, 1 ], "prob": 75 },
+      { "group": "sopmod", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "infantry_common_gear", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
@@ -288,6 +293,7 @@
       { "item": "BL9_castlemap", "prob": 35 },
       { "item": "BL9_biomesmap", "prob": 15 },
       { "item": "BL9_islandmap", "prob": 15 },
+      { "group": "BL9_uncommon_drops", "prob": 75 },
       {
         "distribution": [
           {
@@ -341,7 +347,7 @@
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure1", "prob": 100 },
       { "group": "BL9_treasure2", "prob": 25 },
-      { "group": "BL9_herbs", "prob": 35 },
+      { "group": "BL9_herbs", "prob": 30 },
       { "item": "BL9_tendril_blade_sample", "prob": 80 }
     ]
   },
@@ -355,7 +361,7 @@
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure1", "prob": 100 },
       { "group": "BL9_treasure2", "prob": 25 },
-      { "group": "BL9_herbs", "prob": 35 },
+      { "group": "BL9_herbs", "prob": 30 },
       { "item": "BL9_worm_body_sample", "prob": 80 }
     ]
   },
@@ -418,7 +424,7 @@
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure1", "prob": 100 },
       { "group": "BL9_treasure2", "prob": 25 },
-      { "group": "BL9_herbs", "prob": 35 },
+      { "group": "BL9_herbs", "prob": 30 },
       { "item": "BL9_spindly_spike_sample", "prob": 80 }
     ]
   },
@@ -507,12 +513,12 @@
     "subtype": "collection",
     "id": "BL9_Drops_Milbehemoth",
     "entries": [
-      { "group": "decontamination_room", "damage": [ 0, 1 ], "prob": 75 },
+      { "group": "sopmod", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "infantry_common_gear", "damage": [ 0, 1 ], "prob": 75 },
       { "group": "BL9_enemy_drinks", "prob": 75 },
       { "group": "BL9_enemy_food", "prob": 75 },
       { "group": "BL9_treasure7", "prob": 100 },
-      { "group": "BL9_herbs", "prob": 75 },
+      { "group": "BL9_herbs", "prob": 65 },
       {
         "distribution": [
           {

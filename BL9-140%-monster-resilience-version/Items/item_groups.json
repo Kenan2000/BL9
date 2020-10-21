@@ -98,7 +98,7 @@
   {
     "type": "item_group",
     "id": "BL9_herbs",
-    "items": [ [ "mild_curing_herb", 45 ], [ "medium_curing_herb", 25 ], [ "strong_curing_herb", 10 ] ]
+    "items": [ [ "mild_curing_herb", 33 ], [ "medium_curing_herb", 17 ], [ "strong_curing_herb", 7 ] ]
   },
   {
     "type": "item_group",
@@ -216,6 +216,33 @@
       [ "battleaxe_fake", 6 ],
       [ "mace_fake", 2 ],
       [ "morningstar_fake", 3 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "BL9_common_drops",
+    "subtype": "collection",
+    "items": [
+      { "group": "tools_general", "prob": 45 },
+      { "group": "tools_hunting", "prob": 45 },
+      { "group": "chem_home", "prob": 40 },
+      { "group": "tools_lighting", "prob": 30 },
+      { "group": "tools_survival", "prob": 45 },
+      { "group": "consumer_electronics", "prob": 30 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "BL9_uncommon_drops",
+    "subtype": "collection",
+    "items": [
+      { "group": "tools_general", "prob": 45 },
+      { "group": "chem_home", "prob": 65 },
+      { "group": "tools_lighting", "prob": 45 },
+      { "group": "electronics", "prob": 45 },
+      { "group": "military", "prob": 45 },
+      { "group": "science", "prob": 45 },
+      { "group": "tools_robotics", "prob": 45 }
     ]
   },
   {
