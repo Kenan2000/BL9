@@ -253,15 +253,15 @@
           },
           {
             "id": "t_BL9uniqmazing_liq_yellow",
-            "fg": 272,
+            "fg": 608,
             "multitile": true,
             "additional_tiles": [
-              { "id": "center", "fg": 272 },
-              { "id": "corner", "fg": [ 273, 274, 275, 276 ] },
-              { "id": "t_connection", "fg": [ 277, 278, 279, 280 ] },
-              { "id": "edge", "fg": [ 281, 282 ] },
-              { "id": "end_piece", "fg": [ 283, 284, 285, 286 ] },
-              { "id": "unconnected", "fg": 287 }
+              { "id": "center", "fg": 608 },
+              { "id": "corner", "fg": [ 609, 610, 611, 612 ] },
+              { "id": "t_connection", "fg": [ 613, 614, 615, 616 ] },
+              { "id": "edge", "fg": [ 617, 618 ] },
+              { "id": "end_piece", "fg": [ 619, 620, 621, 622 ] },
+              { "id": "unconnected", "fg": 623 }
             ],
             "rotates": true
           },

@@ -101,6 +101,7 @@
     "color": "red",
     "move_cost_mod": 1,
     "required_str": -1,
+    "light_emitted": 375,
     "emissions": [ "emit_gud_lava" ],
     "flags": [ "TRANSPARENT", "EMITTER" ]
   },
@@ -114,6 +115,7 @@
     "color": "green",
     "move_cost_mod": 1,
     "required_str": -1,
+    "light_emitted": 375,
     "emissions": [ "emit_gud_lava" ],
     "flags": [ "TRANSPARENT", "EMITTER" ]
   },
@@ -127,6 +129,7 @@
     "description": "A gate for teleportation",
     "color": "light_gray",
     "required_str": 25,
+    "light_emitted": 375,
     "flags": [ "TRANSLOCATOR", "MOUNTABLE", "ALLOW_FIELD_EFFECT" ],
     "examine_action": "translocator"
   },

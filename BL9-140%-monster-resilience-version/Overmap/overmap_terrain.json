@@ -1858,7 +1858,7 @@
     "id": "hive_surface4",
     "name": "Hive BL9 Anomaly",
     "sym": "H",
-    "color": "orange",
+    "color": "light_red",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
@@ -1867,7 +1867,7 @@
     "id": "hive_surface5",
     "name": "Hive BL9 Anomaly",
     "sym": "H",
-    "color": "orange",
+    "color": "light_red",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
@@ -1876,7 +1876,7 @@
     "id": "hive_surface6",
     "name": "Hive BL9 Anomaly",
     "sym": "H",
-    "color": "orange",
+    "color": "light_red",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
