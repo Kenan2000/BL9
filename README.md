@@ -29,7 +29,7 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 ## Mod developers, assistants, my greatest supporters
 
-Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help from **Chaosvolt**, AMAZING assistance **from GoatGod, Mutaman, Aptronym** along with my loyal and GREATEST supporters and someone who inspired me - **Cuddlebaby/Go-Goat, SomeDeadGuy, SzQ, Mechmaster, ChidingAmoeba, Tefnut, Maleclypse, Dissociativity, Meem** , I would like to thank CDDA developers as well - **Mark/mlangsdorf** for spreading information about my project and helping me out with my questions, **anothersimularcrum, cursedwist, esotericist** for helping me out with my questions, **Kevin Granade** for working on **blind/screen reader accessibility for CDDA** - you guys are **THE BEST**
+Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help from **Chaosvolt**, **El-Jekozo/1123132123** AMAZING assistance **from GoatGod, Mutaman, Aptronym** along with my loyal and GREATEST supporters and someone who inspired me - **Cuddlebaby/Go-Goat, SomeDeadGuy, SzQ, Mechmaster, ChidingAmoeba, Tefnut, Maleclypse, Dissociativity, Meem** , I would like to thank CDDA developers as well - **Mark/mlangsdorf** for spreading information about my project and helping me out with my questions, **anothersimularcrum, cursedwist, esotericist** for helping me out with my questions, **Kevin Granade** for working on **blind/screen reader accessibility for CDDA** - you guys are **THE BEST**
 
 ## Links to work of my supporters 
 
@@ -45,13 +45,15 @@ Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help fr
 
 **6) https://github.com/foulman/Fantasy**
 
-**7) https://github.com/Noctifer-de-Mortem/nocts_cata_mod**
+**7) https://github.com/El-Jekozo/More_NPC**
 
-**8) https://github.com/foulman/Psioniclysm**
+**8) https://github.com/Noctifer-de-Mortem/nocts_cata_mod**
 
-**9) https://discourse.cataclysmdda.org/t/fallout-new-england/17509**
+**9) https://github.com/foulman/Psioniclysm**
 
-**10) https://github.com/dissociativity/PKs_Rebalancing**
+**10) https://discourse.cataclysmdda.org/t/fallout-new-england/17509**
+
+**11) https://github.com/dissociativity/PKs_Rebalancing**
 
 ## Link to my personal greatly updated soundpack
 
