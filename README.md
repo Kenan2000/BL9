@@ -6,7 +6,7 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 **IMPORTANT - PUT ONLY ONE OUT OF 3 VERSIONS DEPENDING ON YOUR CHOSEN MONSTER_RESILIENCE MODIFIER DURING WORLD GENERATION**
 
-## What you'll experience and main features
+## What you'll experience: main features
 
 **1) Adds over 175+ overmaps - huge crazed Ancient Castlelan Castle, Military heavily guarded Island, various custom unique structures-biomes infested by ALL kinds of monsters with GREAT rewards and bosses to fight**
 
