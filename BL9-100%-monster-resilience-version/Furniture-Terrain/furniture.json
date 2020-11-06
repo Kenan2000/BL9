@@ -59,8 +59,8 @@
     "type": "furniture",
     "id": "f_BL9_floor_olight",
     "looks_like": "t_thconc_floor_olight",
-    "name": "Military overhead lamp",
-    "description": "A very bright military lamp hanging from the ceiling",
+    "name": "Industrial overhead lamp",
+    "description": "A very bright industrial lamp hanging from the ceiling",
     "symbol": "0",
     "color": "light_cyan",
     "move_cost_mod": 1,
@@ -1434,7 +1434,7 @@
   },
   {
     "type": "furniture",
-    "id": "f_BL9_converter1",
+    "id": "f_BL9_alien_converter1",
     "name": "Anomalous converter",
     "description": "Surprisingly sleek-looking machine exact purpose of existence of which is unknown to you, but taking a wild guess, it seems like it is capable of converting some types of alien materials into others, the exact physical or chemical processes involved are a pure mystery",
     "symbol": "&",
@@ -1707,7 +1707,7 @@
   },
   {
     "type": "furniture",
-    "id": "f_BL9_converter2",
+    "id": "f_BL9_alien_converter2",
     "name": "Anomalous converter",
     "description": "Surprisingly sleek-looking machine exact purpose of existence of which is unknown to you, but taking a wild guess, it seems like it is capable of converting some types of alien materials into others, the exact physical or chemical processes involved are a pure mystery",
     "symbol": "&",
@@ -1980,7 +1980,7 @@
   },
   {
     "type": "furniture",
-    "id": "f_BL9_converter3",
+    "id": "f_BL9_alien_converter3",
     "name": "Anomalous converter",
     "description": "Surprisingly sleek-looking machine exact purpose of existence of which is unknown to you, but taking a wild guess, it seems like it is capable of converting some types of alien materials into others, the exact physical or chemical processes involved are a pure mystery",
     "symbol": "&",
@@ -2253,7 +2253,7 @@
   },
   {
     "type": "furniture",
-    "id": "f_BL9_converter4",
+    "id": "f_BL9_alien_converter4",
     "name": "Anomalous converter",
     "description": "Surprisingly sleek-looking machine exact purpose of existence of which is unknown to you, but taking a wild guess, it seems like it is capable of converting some types of alien materials into others, the exact physical or chemical processes involved are a pure mystery",
     "symbol": "&",
