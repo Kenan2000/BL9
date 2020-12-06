@@ -39,7 +39,7 @@ Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help fr
 
 **3) https://github.com/chaosvolt/cdda-arcana-mod**
 
-**4) https://github.com/TheGoatGod/Goats-Mod-Compilation-redux**
+**4) https://github.com/TheGoatGod/Goats-Mod-Compilation**
 
 **5) https://github.com/captainsawbones/Sly_Mutation_Mod_Medley**
 
