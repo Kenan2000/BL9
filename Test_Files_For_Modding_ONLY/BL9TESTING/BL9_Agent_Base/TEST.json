@@ -1,0 +1,482 @@
+[
+  {
+    "type": "mapgen",
+    "om_terrain": [ "BL9_anomaly_core82" ],
+    "method": "json",
+    "weight": 100,
+    "object": {
+      "fill_ter": "t_BL9uniqmazing_fl_purple",
+      "rows": [
+        "qqqqqqqqqqqqqqqqqqqqqqqq",
+        "q11zgd111ghd11ss1q1szd1q",
+        "q1111111111111111q11111q",
+        "qh11111qq1111111qq11111q",
+        "qs1b11qqqq11b111111111gq",
+        "q1111qqszqqd1sqq111b11zq",
+        "q111qqh11gqqzqqd111111dq",
+        "qq?qq111111qqqs11111111q",
+        "q111111111111qqg1111111q",
+        "q111111b111111qq11gzh11q",
+        "qh1111111111111qqqqqqqqq",
+        "qd,,,,,,,,,,,,,?,,dsg,,q",
+        "q,,,,,,,,,,,,,,q,,,,,,,q",
+        "qh,,,,,,qqqqqqqq,,,,,,gq",
+        "qz,,,,,,qs,,q,,qq,,,,,zq",
+        "qg,b,,,qq,,,?,,,qq,,,,hq",
+        "q,,,,,qq,,,,q,,,gqq,,,,q",
+        "q,,ssqq,,,,qq,,b,zq,,b,q",
+        "qqqqqq,,b,qq,,,,dqq,,,,q",
+        "q,,zd,,,,qq,,,,qqq,,,,dq",
+        "qz,,,,,,qq,,,,qq,,,,,,sq",
+        "qs,b,,,,qs,,,,?,,,,,,,,q",
+        "q,,shd,,q,,,,,q,,,hzg,,q",
+        "qqqqqqqqqqqqqqqqqqqqqqqq"
+      ],
+      "palettes": [ "BL9_biomes_palette" ],
+      "terrain": { "a": "t_vat", ",": "t_metal_floor", "j": "t_fence_barbed" },
+      "furniture": {
+        "s": [
+          [ "f_filing_cabinet", 10 ],
+          [ "f_locker", 10 ],
+          [ "f_lab_bench", 10 ],
+		  [ "f_alien_pod", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ]
+        ],
+		"d": [
+          [ "f_autoclave", 10 ],
+          [ "f_sample_freezer", 10 ],
+          [ "f_shaker", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ]
+        ],
+		"g": [
+          [ "f_HPLC", 10 ],
+          [ "f_GC", 10 ],
+          [ "f_MS", 10 ],
+		  [ "f_NMR", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ]
+        ],
+		"h": [
+          [ "f_electron_microscope", 10 ],
+          [ "f_CTscan", 10 ],
+          [ "f_anesthetic", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ],
+		  [ "f_alien_pod", 10 ]
+        ],
+		"j": "f_scan_bed",
+		"l": [
+          [ "f_MRI", 10 ],
+          [ "f_CTscan", 10 ]
+        ],
+		"z": "f_console",
+		"x": "f_chair",
+		"b": "f_BL9_floor_olight"
+      },
+      "place_monster": [
+        { "monster": "mon_BL9_military_cut", "x": 6, "y": 21 },
+        { "monster": "mon_BL9_military_stab", "x": 10, "y": 17 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 16, "y": 18 },
+        { "monster": "mon_BL9_military_crossbow", "x": 13, "y": 21 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 18, "y": 22 },
+        { "monster": "mon_BL9_military_shockrod", "x": 21, "y": 17 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 18, "y": 14 },
+        { "monster": "mon_BL9_military_crossbow", "x": 6, "y": 22 },
+        { "monster": "mon_BL9_military_bash", "x": 22, "y": 14 },
+        { "monster": "mon_BL9_military_cut", "x": 5, "y": 15 },
+        { "monster": "mon_BL9_military_stab", "x": 6, "y": 11 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 10, "y": 12 },
+        { "monster": "mon_BL9_military_crossbow", "x": 9, "y": 8 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 4, "y": 5 },
+        { "monster": "mon_BL9_military_shockrod", "x": 8, "y": 3 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 17, "y": 5 },
+        { "monster": "mon_BL9_military_crossbow", "x": 20, "y": 8 },
+        { "monster": "mon_BL9_military_bash", "x": 21, "y": 4 }
+      ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "om_terrain": [ "BL9_anomaly_core2" ],
+    "method": "json",
+    "weight": 100,
+    "object": {
+      "fill_ter": "t_BL9uniqmazing_fl_purple",
+      "rows": [
+        "qqqqqqqqqqqqqqqqqqqqqqqq",
+        "q,,zsg,,gdh,q,,sgz,,dszq",
+        "q,,,,,,,,,,,q,,,,,,,,,,q",
+        "q,,,,,,,,,,,q,,,,,,,,,,q",
+        "qd,,,,,,,,,gqs,,,,,,,,gq",
+        "qh,,,,,,,,,zqh,,,,,,,,zq",
+        "qg,,,,b,,,,dqg,,,,b,,,hq",
+        "q,,,,,,,,,,,q,,,,,,,,,,q",
+        "q,,,,,,,,,,sq,,,,,,,,,,q",
+        "q,,,,,,,,,,sq,,,,,,,,,sq",
+        "qs,,,,,,,,,,q,,,,,,,,,hq",
+        "qd,,,,,,,,,,q,,,,,,,,,zq",
+        "qg,,,,,,,,,,?,,,,,,,,,,q",
+        "q11111b11111q11111b1111q",
+        "q11111111111q111111111hq",
+        "q11111111111qz11111111sq",
+        "qh111111111zqd11111111dq",
+        "qg111111111dqg111111111q",
+        "qz111111111sq111111111sq",
+        "q11111b11111q11111b111sq",
+        "q11111111111qg11111111hq",
+        "q11111111111qh111111111q",
+        "q11gzh11dhs1q11zsg11hgdq",
+        "qqqqqqqqqqqqqqqqqqqqqqqq"
+      ],
+      "palettes": [ "BL9_biomes_palette" ],
+      "terrain": { "a": "t_vat", ",": "t_metal_floor", "j": "t_fence_barbed" },
+      "furniture": {
+        "s": [
+          [ "f_filing_cabinet", 10 ],
+          [ "f_locker", 10 ],
+          [ "f_lab_bench", 10 ],
+		  [ "f_alien_pod", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ]
+        ],
+		"d": [
+          [ "f_autoclave", 10 ],
+          [ "f_sample_freezer", 10 ],
+          [ "f_shaker", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ]
+        ],
+		"g": [
+          [ "f_HPLC", 10 ],
+          [ "f_GC", 10 ],
+          [ "f_MS", 10 ],
+		  [ "f_NMR", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ]
+        ],
+		"h": [
+          [ "f_electron_microscope", 10 ],
+          [ "f_CTscan", 10 ],
+          [ "f_anesthetic", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ],
+		  [ "f_alien_pod", 10 ]
+        ],
+		"j": "f_scan_bed",
+		"l": [
+          [ "f_MRI", 10 ],
+          [ "f_CTscan", 10 ]
+        ],
+		"z": "f_console",
+		"x": "f_chair",
+		"b": "f_BL9_floor_olight"
+      },
+      "place_monster": [
+        { "monster": "mon_BL9_military_cut", "x": 7, "y": 5 },
+        { "monster": "mon_BL9_military_stab", "x": 7, "y": 7 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 7, "y": 9 },
+        { "monster": "mon_BL9_military_crossbow", "x": 7, "y": 11 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 7, "y": 13 },
+        { "monster": "mon_BL9_military_shockrod", "x": 7, "y": 15 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 7, "y": 17 },
+        { "monster": "mon_BL9_military_crossbow", "x": 7, "y": 19 },
+        { "monster": "mon_BL9_military_bash", "x": 7, "y": 21 },
+        { "monster": "mon_BL9_military_cut", "x": 19, "y": 5 },
+        { "monster": "mon_BL9_military_stab", "x": 19, "y": 7 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 19, "y": 9 },
+        { "monster": "mon_BL9_military_crossbow", "x": 19, "y": 11 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 19, "y": 13 },
+        { "monster": "mon_BL9_military_shockrod", "x": 19, "y": 15 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 19, "y": 17 },
+        { "monster": "mon_BL9_military_crossbow", "x": 19, "y": 19 },
+        { "monster": "mon_BL9_military_bash", "x": 19, "y": 21 }
+      ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "om_terrain": [ "BL9_anomaly_core92" ],
+    "method": "json",
+    "weight": 100,
+    "object": {
+      "fill_ter": "t_BL9uniqmazing_fl_purple",
+      "rows": [
+        "qqqqqqqqqqqqqqqqqqqqqqqq",
+        "q111zgh11dsg1q11hdg11zdq",
+        "q111111111111q111111111q",
+        "qq?q111111111q11111b11sq",
+        "q11q1111b1111?111111111q",
+        "q11qq11111111q111sgs111q",
+        "q111qqs11111gq11qqqqq11q",
+        "q1111qq11111hq11q1zgqzsq",
+        "qz1111q111111qsqq111qqqq",
+        "qs1111qqq1sd1qqq111111qq",
+        "qd111111qqqqqqq11111111q",
+        "q,,b,,,,,,,gdh,,,,,,,,,q",
+        "q,,hdz,,,,,,,,,,,,b,,,zq",
+        "qqqqqqqqqqq,,,,,,,,,,,gq",
+        "q,shd,,zg,qqqqs,,,,,,,hq",
+        "q,,,,,,,,,,qsqq,,,,,,,,q",
+        "qs,,,,,,,,,q,,qq,,,q?qqq",
+        "q,,,,b,,,,qq,,,qqsqq,,,q",
+        "qd,,,,,,,qq,,,,,qqq,,,dq",
+        "qg,,,,,,,,,,,,,,,,,,,,hq",
+        "qh,,,,,qq,,,,,,,,,,,,,gq",
+        "q,,,,,qq,,,,,,,,b,,,,,,q",
+        "q,szh,q,,hsg,,,zgd,,,ssq",
+        "qqqqqqqqqqqqqqqqqqqqqqqq"
+      ],
+      "palettes": [ "BL9_biomes_palette" ],
+      "terrain": { "a": "t_vat", ",": "t_metal_floor", "j": "t_fence_barbed" },
+      "furniture": {
+        "s": [
+          [ "f_filing_cabinet", 10 ],
+          [ "f_locker", 10 ],
+          [ "f_lab_bench", 10 ],
+		  [ "f_alien_pod", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ]
+        ],
+		"d": [
+          [ "f_autoclave", 10 ],
+          [ "f_sample_freezer", 10 ],
+          [ "f_shaker", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ]
+        ],
+		"g": [
+          [ "f_HPLC", 10 ],
+          [ "f_GC", 10 ],
+          [ "f_MS", 10 ],
+		  [ "f_NMR", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ]
+        ],
+		"h": [
+          [ "f_electron_microscope", 10 ],
+          [ "f_CTscan", 10 ],
+          [ "f_anesthetic", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ],
+		  [ "f_alien_pod", 10 ]
+        ],
+		"j": "f_scan_bed",
+		"l": [
+          [ "f_MRI", 10 ],
+          [ "f_CTscan", 10 ]
+        ],
+		"z": "f_console",
+		"x": "f_chair",
+		"b": "f_BL9_floor_olight"
+      },
+      "place_monster": [
+        { "monster": "mon_BL9_military_cut", "x": 5, "y": 17 },
+        { "monster": "mon_BL9_military_stab", "x": 5, "y": 20 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 5, "y": 23 },
+        { "monster": "mon_BL9_military_crossbow", "x": 12, "y": 22 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 19, "y": 20 },
+        { "monster": "mon_BL9_military_shockrod", "x": 21, "y": 23 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 18, "y": 15 },
+        { "monster": "mon_BL9_military_crossbow", "x": 14, "y": 12 },
+        { "monster": "mon_BL9_military_bash", "x": 4, "y": 13 },
+        { "monster": "mon_BL9_military_cut", "x": 19, "y": 9 },
+        { "monster": "mon_BL9_military_stab", "x": 3, "y": 8 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 7, "y": 6 },
+        { "monster": "mon_BL9_military_crossbow", "x": 11, "y": 8 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 13, "y": 5 },
+        { "monster": "mon_BL9_military_shockrod", "x": 6, "y": 10 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 18, "y": 4 },
+        { "monster": "mon_BL9_military_crossbow", "x": 22, "y": 6 },
+        { "monster": "mon_BL9_military_bash", "x": 20, "y": 3 }
+      ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "om_terrain": [ "BL9_sandcaves_guardtower4" ],
+    "method": "json",
+    "weight": 100,
+    "object": {
+      "fill_ter": "t_BL9uniqmazing_fl_purple",
+      "rows": [
+        "qqqqqqqqqqqqqqqqqqqqqqqq",
+        "q,,jgzd,,shd,,,zshj,ghdq",
+        "qs,j,,,,,,,,,,,,,,j,,,,q",
+        "qd,j,b,,,,jjq,,,,,jb,,sq",
+        "q,,j,,,,,jjqqq,,,,j,,,sq",
+        "q,,jjjjjjjqqzq,,,,j,,,,q",
+        "qg,,,,,,,qqh,qq,,,jqqqqq",
+        "qz,,,,,,qqg,,sqq,,qq,,,q",
+        "qh,,,,,qqj,,,,,q,qqj,,,q",
+        "q,,,,qqq,jjb,,,q?q,j,,hq",
+        "q,b,qqz,,,j,,,,,,,,j,,gq",
+        "q,,,qqs,,,j,,,,,,,,j,,zq",
+        "q,,,hqqq,,j,,,,,,,bjjj,q",
+        "q11111zqdqj1111111111jqq",
+        "q1111gqqqqq11111111sqqzq",
+        "q1111qqszgqq1g111hqqqg1q",
+        "q111qq11111qqqqzqqqh111q",
+        "qq?qq1111111qdqqq111jjjq",
+        "q1111jjjjj11q1111jjjj1gq",
+        "qs1jjj111j11q1111jb111sq",
+        "qs1j11b11j11?1111jjj11hq",
+        "q1j11111j111q11111jj111q",
+        "q1jhgd11jdgzq11gszjjdz1q",
+        "qqqqqqqqqqqqqqqqqqqqqq1q"
+      ],
+      "palettes": [ "BL9_biomes_palette" ],
+      "terrain": { "a": "t_vat", ",": "t_metal_floor", "j": "t_fence_barbed" },
+      "furniture": {
+        "s": [
+          [ "f_filing_cabinet", 10 ],
+          [ "f_locker", 10 ],
+          [ "f_lab_bench", 10 ],
+		  [ "f_alien_pod", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ]
+        ],
+		"d": [
+          [ "f_autoclave", 10 ],
+          [ "f_sample_freezer", 10 ],
+          [ "f_shaker", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ]
+        ],
+		"g": [
+          [ "f_HPLC", 10 ],
+          [ "f_GC", 10 ],
+          [ "f_MS", 10 ],
+		  [ "f_NMR", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ]
+        ],
+		"h": [
+          [ "f_electron_microscope", 10 ],
+          [ "f_CTscan", 10 ],
+          [ "f_anesthetic", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ],
+		  [ "f_alien_pod", 10 ]
+        ],
+		"j": "f_scan_bed",
+		"l": [
+          [ "f_MRI", 10 ],
+          [ "f_CTscan", 10 ]
+        ],
+		"z": "f_console",
+		"x": "f_chair",
+		"b": "f_BL9_floor_olight"
+      },
+      "place_monster": [
+        { "monster": "mon_BL9_military_cut", "x": 9, "y": 23 },
+        { "monster": "mon_BL9_military_stab", "x": 9, "y": 21 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 9, "y": 19 },
+        { "monster": "mon_BL9_military_crossbow", "x": 20, "y": 19 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 20, "y": 21 },
+        { "monster": "mon_BL9_military_shockrod", "x": 20, "y": 23 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 3, "y": 13 },
+        { "monster": "mon_BL9_military_crossbow", "x": 4, "y": 7 },
+        { "monster": "mon_BL9_military_bash", "x": 9, "y": 6 },
+        { "monster": "mon_BL9_military_cut", "x": 11, "y": 3 },
+        { "monster": "mon_BL9_military_stab", "x": 18, "y": 4 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 22, "y": 6 },
+        { "monster": "mon_BL9_military_crossbow", "x": 17, "y": 12 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 12, "y": 9 },
+        { "monster": "mon_BL9_military_shockrod", "x": 20, "y": 14 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 15, "y": 15 },
+        { "monster": "mon_BL9_military_crossbow", "x": 10, "y": 12 },
+        { "monster": "mon_BL9_military_bash", "x": 23, "y": 10 }
+      ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "om_terrain": [ "BL9_anomaly_core1" ],
+    "method": "json",
+    "weight": 100,
+    "object": {
+      "fill_ter": "t_BL9uniqmazing_fl_purple",
+      "rows": [
+        "qqqqqqqqqqqqqqqqqqqqqqqq",
+        "q111dsg111hgz111sdg1111q",
+        "qz1111111b1111111111111q",
+        "q111111111111111111111hq",
+        "qqqqqq?qqqqq1111111111dq",
+        "q1ds11111h1q111111b111sq",
+        "q1111111111q11111111111q",
+        "q111111b11sq11111111111q",
+        "q11zg111111q11zgs11dh11q",
+        "qqqqqqq?qqqqqqqqqqqqqqqq",
+        "q11hd1111111q11gdh11111q",
+        "qz,,,,,,,,,,q,,,,,,,,,hq",
+        "qg,,,,,,,,,,?,,,,b,,,,zq",
+        "qs,,,,,b,,,,q,,,,,,,,,sq",
+        "q,,,,,,,,,,,q,,,,,,,,,,q",
+        "q,,dgh,,sz,,q,zs,,,,dh,q",
+        "qqqqqqqqqqqqqqqqqq?qqqqq",
+        "q,,ghz,,,q,,zgs,,,,,,,,q",
+        "qh,,,,,,,q,,,,,,,,,,,,gq",
+        "qd,,,b,,,?,,,,,,b,,,,,sq",
+        "qz,,,,,,,q,,,,,,,,,,,,hq",
+        "q,,,,,,,,q,,,,,,,,,,,,,q",
+        "q,,sgh,,,q,,hgd,,,zhg,,q",
+        "qqqqqqqqqqqqqqqqqqqqqqqq"
+      ],
+      "palettes": [ "BL9_biomes_palette" ],
+      "terrain": { "a": "t_vat", ",": "t_metal_floor", "j": "t_fence_barbed" },
+      "furniture": {
+        "s": [
+          [ "f_filing_cabinet", 10 ],
+          [ "f_locker", 10 ],
+          [ "f_lab_bench", 10 ],
+		  [ "f_alien_pod", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ]
+        ],
+		"d": [
+          [ "f_autoclave", 10 ],
+          [ "f_sample_freezer", 10 ],
+          [ "f_shaker", 10 ],
+		  [ "f_BL9_alien_anemone", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ]
+        ],
+		"g": [
+          [ "f_HPLC", 10 ],
+          [ "f_GC", 10 ],
+          [ "f_MS", 10 ],
+		  [ "f_NMR", 10 ],
+		  [ "f_BL9_glowing_tendril", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ]
+        ],
+		"h": [
+          [ "f_electron_microscope", 10 ],
+          [ "f_CTscan", 10 ],
+          [ "f_anesthetic", 10 ],
+		  [ "f_BL9_alien_gasper", 10 ],
+		  [ "f_alien_pod", 10 ]
+        ],
+		"j": "f_scan_bed",
+		"l": [
+          [ "f_MRI", 10 ],
+          [ "f_CTscan", 10 ]
+        ],
+		"z": "f_console",
+		"x": "f_chair",
+		"b": "f_BL9_floor_olight"
+      },
+      "place_monster": [
+        { "monster": "mon_BL9_military_cut", "x": 6, "y": 19 },
+        { "monster": "mon_BL9_military_stab", "x": 5, "y": 22 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 15, "y": 20 },
+        { "monster": "mon_BL9_military_crossbow", "x": 17, "y": 20 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 16, "y": 22 },
+        { "monster": "mon_BL9_military_shockrod", "x": 18, "y": 22 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 18, "y": 12 },
+        { "monster": "mon_BL9_military_crossbow", "x": 19, "y": 12 },
+        { "monster": "mon_BL9_military_bash", "x": 20, "y": 12 },
+        { "monster": "mon_BL9_military_cut", "x": 6, "y": 15 },
+        { "monster": "mon_BL9_military_stab", "x": 7, "y": 15 },
+        { "monster": "mon_BL9_military_behemoth_minigun", "x": 8, "y": 15 },
+        { "monster": "mon_BL9_military_crossbow", "x": 8, "y": 7 },
+        { "monster": "mon_BL9_mutant_evo_3", "x": 12, "y": 4 },
+        { "monster": "mon_BL9_military_shockrod", "x": 17, "y": 5 },
+        { "monster": "mon_BL9_mutant_evo_2", "x": 20, "y": 8 },
+        { "monster": "mon_BL9_military_crossbow", "x": 21, "y": 6 },
+        { "monster": "mon_BL9_military_bash", "x": 16, "y": 8 }
+      ]
+    }
+  }
+]
