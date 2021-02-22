@@ -30,7 +30,7 @@
         "qz11111j1q1111q11j1111zq",
         "q1j1111j1q1111q11j1111jq",
         "q1jdgh1j1q1111q11jhgdjjq",
-        "q1qqqqqqqqqqqqqqqqqqqqqq"
+        "q?qqqqqqqqqqqqqqqqqqqqqq"
       ],
       "palettes": [ "BL9_biomes_palette" ],
       "terrain": { ",": "t_metal_floor", "j": "t_fence_barbed" },
@@ -389,7 +389,7 @@
         "q111qq11111qqqqzqqqh111q",
         "qq?qq1111111qdqqq111jjjq",
         "q1111jjjjj11q1111jjjj1gq",
-        "qs1jjj111j11q1111jb111sq",
+        "qs1jjj111j11q1111jb11>sq",
         "qs1j11b11j11?1111jjj11hq",
         "q1j11111j111q11111jj111q",
         "q1jhgd11jdgzq11gszjjdz1q",
@@ -449,65 +449,6 @@
         { "monster": "mon_BL9_military_crossbow", "x": 10, "y": 12 },
         { "monster": "mon_BL9_military_bash", "x": 23, "y": 10 }
       ]
-    }
-  },
-  {
-    "type": "mapgen",
-    "om_terrain": [ "hive_caves_surface" ],
-    "method": "json",
-    "weight": 100,
-    "object": {
-      "fill_ter": "t_rock_floor",
-      "rows": [
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQ11q11q11q11q1QQQQQ",
-        "QQQQQQq11111111111qQQQQQ",
-        "QQQQQQ1111111111111QQQQQ",
-        "QQQQQQ1111111111111QQQQQ",
-        "QQQQQQq11111111111qQQQQQ",
-        "QQQQQQ111111>111111QQQQQ",
-        "QQQQQQ1111111111111QQQQQ",
-        "QQQQQQq11111111111qQQQQQ",
-        "QQQQQQ1111111111111QQQQQ",
-        "QQQQQQ1111111111111QQQQQ",
-        "QQQQQQq11q11q11q11qQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ",
-        "QQQQQQQQQQQQQQQQQQQQQQQQ"
-      ],
-      "palettes": [ "BL9_biomes_palette" ],
-      "place_signs": [
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 10,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 15
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 16,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 9
-        }
-      ],
-      "place_item": [ { "item": "BL9_castlemap", "x": 14, "y": 12 } ]
     }
   },
   {
@@ -1453,7 +1394,7 @@
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_sandbrown",
       "rows": [
-        "wwwwwwwwwww0wwwwwwwwwwww",
+        "wwwwwwwwwww?wwwwwwwwwwww",
         "w00zgd0ghd000jss0w0szdjw",
         "w000000000000j000w0000jw",
         "wh00000ww0000jjjwwjjjjjw",
@@ -1820,7 +1761,7 @@
         "wwwwww?wwwww0000000000dw",
         "w0ds0j000h0w000000b000sw",
         "w0000j00000w0jjjjjjjjj0w",
-        "w0000j0b21sw0j0000000j0w",
+        "w0000j0b21sw0j000>000j0w",
         "w00zgj00000w0jzgs01dhj0w",
         "wwwwwww?wwwwwwwwwwwwwwww",
         "w00hd0000000w00gdh00jj0w",
@@ -1892,65 +1833,6 @@
         { "monster": "mon_BL9_military_crossbow", "x": 21, "y": 6 },
         { "monster": "mon_BL9_military_bash", "x": 16, "y": 8 }
       ]
-    }
-  },
-  {
-    "type": "mapgen",
-    "om_terrain": [ "sandruins_caves_surface" ],
-    "method": "json",
-    "weight": 100,
-    "object": {
-      "fill_ter": "t_rock_floor",
-      "rows": [
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWW22w22w22w22w2WWWWW",
-        "WWWWWWw22222222222wWWWWW",
-        "WWWWWW2222222222222WWWWW",
-        "WWWWWW2222222222222WWWWW",
-        "WWWWWWw22222222222wWWWWW",
-        "WWWWWW222222>222222WWWWW",
-        "WWWWWW2222222222222WWWWW",
-        "WWWWWWw22222222222wWWWWW",
-        "WWWWWW2222222222222WWWWW",
-        "WWWWWW2222222222222WWWWW",
-        "WWWWWWw22w22w22w22wWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW",
-        "WWWWWWWWWWWWWWWWWWWWWWWW"
-      ],
-      "palettes": [ "BL9_biomes_palette" ],
-      "place_signs": [
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 10,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 15
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 16,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 9
-        }
-      ],
-      "place_item": [ { "item": "BL9_castlemap", "x": 14, "y": 12 } ]
     }
   },
   {
@@ -2993,7 +2875,7 @@
         "Sd,,jjj,,,,,,,?,,,,,,,,S",
         "S,,,,,j,,,b,,,S,,,,,b,,S",
         "S,,sgdj,,hzg,,S,,,dgs,sS",
-        "SSSSSSSSSSSSSSSSSSSSS,SS"
+        "SSSSSSSSSSSSSSSSSSSSS?SS"
       ],
       "palettes": [ "BL9_biomes_palette" ],
       "terrain": { ",": "t_metal_floor", "j": "t_fence_barbed" },
@@ -3351,7 +3233,7 @@
         "S,,,,SSSSs,,,,,j,dSSSSSS",
         "S,hgSS,,SS,,,,,jjSSjzh,S",
         "SSSSS,,,,SS,,,,,SS,j,,,S",
-        "S,,j,,b,,,SSS?SSS,,j,,gS",
+        "S,,j,,b,,,SSS?SSS,,j,>gS",
         "Sg,jjjjj,,,,,,,,,,,j,,dS",
         "Sz,j,,,j,,,,,,,,,,,jb,,S",
         "S,,jsdzj,,gzs,,,dghj,ssS",
@@ -3411,65 +3293,6 @@
         { "monster": "mon_BL9_military_crossbow", "x": 21, "y": 9 },
         { "monster": "mon_BL9_military_bash", "x": 21, "y": 10 }
       ]
-    }
-  },
-  {
-    "type": "mapgen",
-    "om_terrain": [ "water_caves_surface" ],
-    "method": "json",
-    "weight": 100,
-    "object": {
-      "fill_ter": "t_rock_floor",
-      "rows": [
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEE33e33e33e33e3EEEEE",
-        "EEEEEEe33333333333eEEEEE",
-        "EEEEEE3333333333333EEEEE",
-        "EEEEEE3333333333333EEEEE",
-        "EEEEEEe33333333333eEEEEE",
-        "EEEEEE333333>333333EEEEE",
-        "EEEEEE3333333333333EEEEE",
-        "EEEEEEe33333333333eEEEEE",
-        "EEEEEE3333333333333EEEEE",
-        "EEEEEE3333333333333EEEEE",
-        "EEEEEEe33e33e33e33eEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE",
-        "EEEEEEEEEEEEEEEEEEEEEEEE"
-      ],
-      "palettes": [ "BL9_biomes_palette" ],
-      "place_signs": [
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 10,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 15
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 16,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 9
-        }
-      ],
-      "place_item": [ { "item": "BL9_castlemap", "x": 14, "y": 12 } ]
     }
   },
   {
@@ -4419,7 +4242,7 @@
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
       "rows": [
-        "GGGGGGGG,GGGGGGGGGGGGGGG",
+        "GGGGGGGG?GGGGGGGGGGGGGGG",
         "G,,zds,,,,,jdgs,,jzdg,,G",
         "Gd,,,,,,,G,j,,,,,j,,,,,L",
         "Gh,,b,,,,GGj,,,,,jb,,,hi",
@@ -4793,7 +4616,7 @@
         "GGGGGGGGGGGGGGh,,jb,,,hG",
         "G,hzj,,,,gh,,Gz,,j,,,,dG",
         "G,,,jjj,,,,,zGd,jj,,,,,G",
-        "G,,,,,j,,b,,dG,j,,,,,,,G",
+        "G,>,,,j,,b,,dG,j,,,,,,,G",
         "G,,gsdj,,,,,,G,jsdh,zg,G",
         "GGGGGGGGG?GGGGGGGGG?GGGG",
         "G,,jdsgj,,,,sh,Gzds,,,,G",
@@ -4858,65 +4681,6 @@
         { "monster": "mon_BL9_military_crossbow", "x": 16, "y": 5 },
         { "monster": "mon_BL9_military_bash", "x": 17, "y": 5 }
       ]
-    }
-  },
-  {
-    "type": "mapgen",
-    "om_terrain": [ "lava_caves_surface" ],
-    "method": "json",
-    "weight": 100,
-    "object": {
-      "fill_ter": "t_rock_floor",
-      "rows": [
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "44444444r44r44r44r444444",
-        "444444r44444444444r44444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444r44444444444r44444",
-        "444444444444>44444444444",
-        "444444444444444444444444",
-        "444444r44444444444r44444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444r44r44r44r44r44444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444",
-        "444444444444444444444444"
-      ],
-      "palettes": [ "BL9_biomes_palette" ],
-      "place_signs": [
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 10,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 15
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 16,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 9
-        }
-      ],
-      "place_item": [ { "item": "BL9_castlemap", "x": 14, "y": 12 } ]
     }
   },
   {
@@ -5869,7 +5633,7 @@
       "rows": [
         "DDDDDDDDDDDDDDDDDDDDDDDD",
         "D,,zgd,,shd,D,,,,,,,,,,L",
-        ",,,,,,,b,,,,Dh,,,,b,,,gi",
+        "?,,,,,,b,,,,Dh,,,,b,,,gi",
         "Dg,,jjjjjj,gDs,jjjjjj,sD",
         "Dh,,j,,,,j,dD,,j,,,,j,dD",
         "Ds,,j,,,,j,zD,,j,,,,j,,D",
@@ -6249,7 +6013,7 @@
         "Djjj55b55jjjD55j55b555hD",
         "D5jjjjjjjjjjDg5jjjjjjjjD",
         "D5j555555555Dh5j5555555D",
-        "D5jgzh55dhs5D55jzsg5hgdD",
+        "D5jgzh55dhs5D55jzsg>hgdD",
         "DDDDDDDDDDDDDDDDDDDDDDDD"
       ],
       "palettes": [ "BL9_biomes_palette" ],
@@ -6306,65 +6070,6 @@
         { "monster": "mon_BL9_military_crossbow", "x": 19, "y": 19 },
         { "monster": "mon_BL9_military_bash", "x": 19, "y": 21 }
       ]
-    }
-  },
-  {
-    "type": "mapgen",
-    "om_terrain": [ "acid_caves_surface" ],
-    "method": "json",
-    "weight": 100,
-    "object": {
-      "fill_ter": "t_rock_floor",
-      "rows": [
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "55555555y55y55y55y555555",
-        "555555y55555555555y55555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555y55555555555y55555",
-        "555555555555>55555555555",
-        "555555555555555555555555",
-        "555555y55555555555y55555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555y55y55y55y55y55555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555",
-        "555555555555555555555555"
-      ],
-      "palettes": [ "BL9_biomes_palette" ],
-      "place_signs": [
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 10,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 15
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 16,
-          "y": 12
-        },
-        {
-          "signage": "IF YOU HAVE NOT FOUND AND EXPLORED THE CASTLE, DON'T EVEN THINK OF ENTERING - YOU WILL PERISH AS SOON AS YOU DESCEND",
-          "x": 13,
-          "y": 9
-        }
-      ],
-      "place_item": [ { "item": "BL9_castlemap", "x": 14, "y": 12 } ]
     }
   },
   {

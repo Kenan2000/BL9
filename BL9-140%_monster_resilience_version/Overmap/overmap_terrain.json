@@ -370,9 +370,45 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "hive_caves_surface",
-    "name": "Hive Caves - Surface Entrance",
-    "sym": "E",
+    "id": "BL9_hivecaves_guardtower1",
+    "name": "Hive Caves - Guard Tower",
+    "sym": "T",
+    "color": "magenta",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_hivecaves_guardtower2",
+    "name": "Hive Caves - Guard Tower",
+    "sym": "T",
+    "color": "magenta",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_hivecaves_guardtower3",
+    "name": "Hive Caves - Guard Tower",
+    "sym": "T",
+    "color": "magenta",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_hivecaves_guardtower4",
+    "name": "Hive Caves - Guard Tower",
+    "sym": "T",
+    "color": "magenta",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_hivecaves_guardtower5",
+    "name": "Hive Caves - Guard Tower",
+    "sym": "T",
     "color": "magenta",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
@@ -622,9 +658,45 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "sandruins_caves_surface",
-    "name": "Underground Ruins Caves - Surface Entrance",
-    "sym": "E",
+    "id": "BL9_sandcaves_guardtower1",
+    "name": "Underground Ruins Caves - Guard Tower",
+    "sym": "T",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_sandcaves_guardtower2",
+    "name": "Underground Ruins Caves - Guard Tower",
+    "sym": "T",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_sandcaves_guardtower3",
+    "name": "Underground Ruins Caves - Guard Tower",
+    "sym": "T",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_sandcaves_guardtower4",
+    "name": "Underground Ruins Caves - Guard Tower",
+    "sym": "T",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_sandcaves_guardtower5",
+    "name": "Underground Ruins Caves - Guard Tower",
+    "sym": "T",
     "color": "brown",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
@@ -1009,9 +1081,162 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "water_caves_surface",
-    "name": "Sunken Caves - Surface Entrance",
-    "sym": "E",
+    "id": "BL9_domain_davran1",
+    "name": "BL9 Domain of Davranides",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_domain_davran2",
+    "name": "BL9 Domain of Davranides",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_domain_davran3",
+    "name": "BL9 Domain of Davranides",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_domain_davran4",
+    "name": "BL9 Domain of Davranides",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran1",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran2",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran3",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran4",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran5",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran6",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran7",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran8",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_davran9",
+    "name": "BL9 Davranides' Mobile Base",
+    "sym": "D",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_watercaves_guardtower2",
+    "name": "Sunken Caves - Guard Tower",
+    "sym": "T",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_watercaves_guardtower3",
+    "name": "Sunken Caves - Guard Tower",
+    "sym": "T",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_watercaves_guardtower4",
+    "name": "Sunken Caves - Guard Tower",
+    "sym": "T",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_watercaves_guardtower5",
+    "name": "Sunken Caves - Guard Tower",
+    "sym": "T",
+    "color": "blue",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_watercaves_guardtower1",
+    "name": "Sunken Caves - Guard Tower",
+    "sym": "T",
     "color": "blue",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
@@ -1333,9 +1558,45 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "lava_caves_surface",
-    "name": "Molten Caves - Surface Entrance",
-    "sym": "E",
+    "id": "BL9_lavacaves_guardtower1",
+    "name": "Molten Caves - Guard Tower",
+    "sym": "T",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_lavacaves_guardtower2",
+    "name": "Molten Caves - Guard Tower",
+    "sym": "T",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_lavacaves_guardtower3",
+    "name": "Molten Caves - Guard Tower",
+    "sym": "T",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_lavacaves_guardtower4",
+    "name": "Molten Caves - Guard Tower",
+    "sym": "T",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_lavacaves_guardtower5",
+    "name": "Molten Caves - Guard Tower",
+    "sym": "T",
     "color": "red",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
@@ -1522,9 +1783,45 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "acid_caves_surface",
-    "name": "Acidic Caves - Surface Entrance",
-    "sym": "E",
+    "id": "BL9_acidcaves_guardtower1",
+    "name": "Acidic Caves - Guard Tower",
+    "sym": "T",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_acidcaves_guardtower2",
+    "name": "Acidic Caves - Guard Tower",
+    "sym": "T",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_acidcaves_guardtower3",
+    "name": "Acidic Caves - Guard Tower",
+    "sym": "T",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_acidcaves_guardtower4",
+    "name": "Acidic Caves - Guard Tower",
+    "sym": "T",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_acidcaves_guardtower5",
+    "name": "Acidic Caves - Guard Tower",
+    "sym": "T",
     "color": "green",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
@@ -2215,42 +2512,6 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "sunken_caves_surface1",
-    "name": "Sunken Caves BL9 Anomaly",
-    "sym": "W",
-    "color": "blue",
-    "see_cost": 5,
-    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "sunken_caves_surface2",
-    "name": "Sunken Caves BL9 Anomaly",
-    "sym": "W",
-    "color": "blue",
-    "see_cost": 5,
-    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "sunken_caves_surface3",
-    "name": "Sunken Caves BL9 Anomaly",
-    "sym": "W",
-    "color": "blue",
-    "see_cost": 5,
-    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "sunken_caves_surface4",
-    "name": "Sunken Caves BL9 Anomaly",
-    "sym": "W",
-    "color": "blue",
-    "see_cost": 5,
-    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "BL9_anomaly_tavrav1",
     "name": "BL9 Anomaly - Tavravium",
     "sym": "T",
@@ -2602,7 +2863,88 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface5",
+    "id": "BL9_anomaly_salden1",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden2",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden3",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden4",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden5",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden6",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden7",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden8",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_salden9",
+    "name": "BL9 Saldeniums' Mobile Base",
+    "sym": "S",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "molten_caves_surface1",
     "name": "Molten Caves BL9 Anomaly",
     "sym": "L",
     "color": "red",
@@ -2611,7 +2953,7 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface6",
+    "id": "molten_caves_surface2",
     "name": "Molten Caves BL9 Anomaly",
     "sym": "L",
     "color": "red",
@@ -2620,7 +2962,7 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface7",
+    "id": "molten_caves_surface3",
     "name": "Molten Caves BL9 Anomaly",
     "sym": "L",
     "color": "red",
@@ -2629,7 +2971,7 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface8",
+    "id": "molten_caves_surface4",
     "name": "Molten Caves BL9 Anomaly",
     "sym": "L",
     "color": "red",
@@ -2638,37 +2980,118 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface9",
-    "name": "Molten Caves BL9 Anomaly",
-    "sym": "L",
+    "id": "BL9_domain_salden1",
+    "name": "BL9 Domain of Saldeniums",
+    "sym": "S",
     "color": "red",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface10",
-    "name": "Molten Caves BL9 Anomaly",
-    "sym": "L",
+    "id": "BL9_domain_salden2",
+    "name": "BL9 Domain of Saldeniums",
+    "sym": "S",
     "color": "red",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface11",
-    "name": "Molten Caves BL9 Anomaly",
-    "sym": "L",
+    "id": "BL9_domain_salden3",
+    "name": "BL9 Domain of Saldeniums",
+    "sym": "S",
     "color": "red",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
   {
     "type": "overmap_terrain",
-    "id": "molten_caves_surface12",
-    "name": "Molten Caves BL9 Anomaly",
-    "sym": "L",
+    "id": "BL9_domain_salden4",
+    "name": "BL9 Domain of Saldeniums",
+    "sym": "S",
     "color": "red",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel1",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel2",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel3",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel4",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel5",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel6",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel7",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel8",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "BL9_anomaly_wanzel9",
+    "name": "BL9 Wanzeltiums' Mobile Base",
+    "sym": "W",
+    "color": "green",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
@@ -2710,36 +3133,36 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "acidic_caves_surface5",
-    "name": "Acidic Caves BL9 Anomaly",
-    "sym": "A",
+    "id": "BL9_domain_wanzel1",
+    "name": "BL9 Domain of Wanzeltiums",
+    "sym": "W",
     "color": "green",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
   {
     "type": "overmap_terrain",
-    "id": "acidic_caves_surface6",
-    "name": "Acidic Caves BL9 Anomaly",
-    "sym": "A",
+    "id": "BL9_domain_wanzel2",
+    "name": "BL9 Domain of Wanzeltiums",
+    "sym": "W",
     "color": "green",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
   {
     "type": "overmap_terrain",
-    "id": "acidic_caves_surface7",
-    "name": "Acidic Caves BL9 Anomaly",
-    "sym": "A",
+    "id": "BL9_domain_wanzel3",
+    "name": "BL9 Domain of Wanzeltiums",
+    "sym": "W",
     "color": "green",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]
   },
   {
     "type": "overmap_terrain",
-    "id": "acidic_caves_surface8",
-    "name": "Acidic Caves BL9 Anomaly",
-    "sym": "A",
+    "id": "BL9_domain_wanzel4",
+    "name": "BL9 Domain of Wanzeltiums",
+    "sym": "W",
     "color": "green",
     "see_cost": 5,
     "flags": [ "RISK_LOW", "SOURCE_SAFETY" ]

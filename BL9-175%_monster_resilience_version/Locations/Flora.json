@@ -1473,7 +1473,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "sunken_caves_surface1" ],
+    "om_terrain": [ "BL9_domain_davran1" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -1558,7 +1558,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "sunken_caves_surface2" ],
+    "om_terrain": [ "BL9_domain_davran2" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -1643,7 +1643,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "sunken_caves_surface3" ],
+    "om_terrain": [ "BL9_domain_davran3" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -1728,7 +1728,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "sunken_caves_surface4" ],
+    "om_terrain": [ "BL9_domain_davran4" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -3262,7 +3262,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "molten_caves_surface9" ],
+    "om_terrain": [ "BL9_domain_salden1" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -3356,7 +3356,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "molten_caves_surface10" ],
+    "om_terrain": [ "BL9_domain_salden2" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -3450,7 +3450,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "molten_caves_surface11" ],
+    "om_terrain": [ "BL9_domain_salden3" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -3544,7 +3544,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "molten_caves_surface12" ],
+    "om_terrain": [ "BL9_domain_salden4" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -3994,7 +3994,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "acidic_caves_surface5" ],
+    "om_terrain": [ "BL9_domain_wanzel1" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -4084,7 +4084,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "acidic_caves_surface6" ],
+    "om_terrain": [ "BL9_domain_wanzel2" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -4174,7 +4174,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "acidic_caves_surface7" ],
+    "om_terrain": [ "BL9_domain_wanzel3" ],
     "method": "json",
     "weight": 100,
     "object": {
@@ -4264,7 +4264,7 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "acidic_caves_surface8" ],
+    "om_terrain": [ "BL9_domain_wanzel4" ],
     "method": "json",
     "weight": 100,
     "object": {

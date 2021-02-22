@@ -4768,7 +4768,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel1" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -4861,7 +4861,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel2" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -4954,7 +4954,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel3" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -5047,7 +5047,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel4" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -5143,7 +5143,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel5" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -5236,7 +5236,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel6" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -5329,7 +5329,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel7" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -5422,7 +5422,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel8" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -5515,7 +5515,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_wanzel9" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
       "rows": [
@@ -5607,7 +5607,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran1" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -5700,7 +5700,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran2" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -5793,7 +5793,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran3" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -5886,7 +5886,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran4" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -5979,7 +5979,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran5" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -6072,7 +6072,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran6" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -6165,7 +6165,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran7" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -6261,7 +6261,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran8" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -6354,7 +6354,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_davran9" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
       "rows": [
@@ -6446,7 +6446,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden1" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -6539,7 +6539,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden2" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -6632,7 +6632,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden3" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -6725,7 +6725,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden4" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -6818,7 +6818,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden5" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -6911,7 +6911,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden6" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -7004,7 +7004,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden7" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -7097,7 +7097,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden8" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
@@ -7190,7 +7190,7 @@
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_salden9" ],
     "method": "json",
-    "weight": 0,
+    "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
       "rows": [
