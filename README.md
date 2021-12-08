@@ -1,5 +1,5 @@
 # BL9
-A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Evil 4 by Capcom
+A huge sci-fi action adventure content mod for Cataclysm Dark Days Ahead along with Bright Nights greatly inspired by Resident Evil 4 by Capcom along with Half Life series as well 
 
 ## Prerequisites 
 **None, but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Cata++, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
@@ -8,15 +8,15 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 ## What you'll experience: main features
 
-**1) Adds over 175+ overmaps - huge crazed Ancient Castlelan Castle, Military heavily guarded Island, various custom unique structures-biomes infested by ALL kinds of monsters with GREAT rewards and bosses to fight**
+**1) Adds 15 structures ranging from gigantic to huge - huge crazed Ancient Castlelan Castle of a Cult, Abandoned Industrial Facilities infested with Aliens, Secret Organization Military heavily guarded Island, various Lush and Fortified Biomes with Guard Towers, Advanced Aliens' Mobile Bases with their Militia, all locations are infested by ALL kinds of monsters with GREAT rewards and bosses to fight**
 
-**2) New guns (30 ranged weapons - 3 tiers of them with 2 tiers of sleek and unique craftable ammo - BALLISTICS TOO), unique craftable melee weapons (using all kinds of vanilla martial arts) and armor (2 tiers of well-made strong BL9-infused survivor armor)**
+**2) New guns (including huge amount of both modern and hi-tech ranged weapons - 3 tiers of modern weapons, 4 tiers of hi-tech weapons which are capable of shooting laser, plasma, acid, electricity, tons of sleek and unique craftable ammo - BALLISTICS TOO), unique craftable and findable both classic, unique and hi-tech melee weapons (using all kinds of vanilla martial arts), new armor (4 tiers in total - 2 tiers of well-made strong BL9-infused survivor armor, 2 tiers of hi-tech BL9-infused survivor armor which buffs skills along with stats), tons of new artifacts of 3 tiers which buff skills along with stats**
 
-**3) Dangerous monsters and bosses to fight - from cultist and heavily armed military roaming patrols to heavily mutated creatures and tough bosses inspired greatly by Resident Evil by Capcom creatures**
+**3) Dangerous monsters and bosses to fight - from cultist and heavily armed military roaming patrols to heavily mutated creatures, mutants, aliens, advanced aliens' militia and tough bosses inspired greatly by Resident Evil by Capcom and Half Life series creatures**
 
-**4) Carefully and well-made linear balance system - you'll be slowly going from mid-game structures and monsters to end-game truly DANGEROUS locations and bosses with lots of valuable stuff to collect and craft**
+**4) Carefully and well-made linear balance system thanks to Tekker - you'll be slowly going from mid-game structures and monsters to end-game truly DANGEROUS locations and bosses with lots of valuable stuff to collect and craft**
 
-**5) Unique lore in the form of journals and notes - learn about secret organizations, origin of "BL9" organism and the evil plans of a vile faction that wants to establish the New World Order**
+**5) Unique lore in the form of journals and notes - learn about both good and evil Secret Organizations, Vile Cult, Origin of "BL9" organism, evil plans of a vile faction called 'THEY' that wants to establish the New World Order, Strange Alien Biomes and Creatures, Advanced Alien Civilizations 'Alliance' that wants to seize this peculiar organism, learn about their their followers or exiles, learn about secret organizations' scientists, agents, workers, their goals, their motives, will you let vile and power hungry human and alien factions ravage Earth or save it?**
 
 **6) Unique Merchant NPC system done by Axema - collect currency from BL9 monsters and buy Tier 1 and Tier 2 ranged weapons and armor - what are ya buying, stranger?**
 
@@ -24,12 +24,12 @@ A huge content mod for Cataclysm Dark Days Ahead greatly inspired by Resident Ev
 
 **8) Unique Herb Healing system done by me - You can instantly heal a certain part of your HP while in combat but be careful to not overdo it in combat - you get a stacking temporary debuff which gets only longer the more you use the herbs**
 
-**9) Bright Nights and Pre-nested version support - NO errors, working perfectly fine - get it here https://mega.nz/file/zB0S3KIR#91-eG7RFVe24Yj3UhEmXDYjyoD5ng0K608nz-1dJctI**
+**9) Bright Nights versions support - NO errors, working perfectly fine - get it here https://github.com/Kenan2000/BrightNights-Structured-Kenan-Modpack**
 
 
 ## Mod developers, assistants, my greatest supporters
 
-Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help from **Chaosvolt**, **El-Jekozo/1123132123**, AMAZING assistance **from GoatGod, Mutaman, Aptronym** along with my loyal and GREATEST supporters and someone who inspired me - **Cuddlebaby/Go-Goat, SomeDeadGuy, SzQ, Mechmaster, ChidingAmoeba, Tefnut, Maleclypse, Dissociativity, Meem** , I would like to thank CDDA developers as well - **Mark/mlangsdorf** for spreading information about my project and helping me out with my questions, **anothersimularcrum, cursedwist, esotericist** for helping me out with my questions, **Kevin Granade** for working on **blind/screen reader accessibility for CDDA** - you guys are **THE BEST**
+Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help from **Chaosvolt**, **El-Jekozo/1123132123**, AMAZING assistance **from GoatGod, Mutaman, Aptronym** along with my loyal and GREATEST supporters and someone who inspired me - **Cuddlebaby/Go-Goat, SomeDeadGuy, SzQ, Mechmaster, ChidingAmoeba, Tefnut, Maleclypse, Dissociativity, Meem** , I would like to thank CDDA developers as well - **Mark/mlangsdorf** for spreading information about my project and helping me out with my questions, **anothersimularcrum, cursedwist, esotericist** for helping me out with my questions, Bright Nights developers as well - **Coolcthulhu** for support, kindness, **Kevin Granade** for working on **blind/screen reader accessibility for CDDA** - you guys are **THE BEST**
 
 ## Links to work of my supporters 
 
@@ -66,3 +66,6 @@ Mod has been developed by **me (Kenan) and Axema Vales** with TREMENDOUS help fr
 ## Link to my CDDA modding server
 
 **https://discord.com/invite/xj9E3Sp**
+
+
+
