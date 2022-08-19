@@ -669,7 +669,7 @@
       "furniture": { "b": "f_alien_pod", "c": "f_alien_pod_organ", "f": "f_BL9_glowing_tendril" },
       "items": {
         "b": { "item": "BL9_treasure_search1", "chance": 100, "repeat": [ 1, 1 ] },
-        "c": { "item": "BL9_treasure_search1", "chance": 100, "repeat": [ 1, 1 ] }
+        "c": { "item": "BL9_treasure_search2", "chance": 100, "repeat": [ 1, 1 ] }
       },
       "place_item": [ { "item": "id_industrial", "x": 19, "y": 21 } ],
       "place_monster": [
