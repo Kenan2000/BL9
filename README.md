@@ -1,18 +1,18 @@
 # BL9
-A huge sci-fi action adventure content mod for Cataclysm Dark Days Ahead along with Bright Nights greatly inspired by Resident Evil series by Capcom along with Half Life series as well 
+A huge sci-fi action adventure content mod for Cataclysm Dark Days Ahead along with Bright Nights greatly inspired by Resident Evil series by Capcom along with Half Life series by Valve as well 
 
 ## Prerequisites 
-**None, but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Cata++, Arcana, Fallout New England, PK rebalancing, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
+**None, but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Xedra Evolved, Mind Over Matter, Cata++, Arcana, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
 
 **IMPORTANT - PUT ONLY ONE OUT OF 3 VERSIONS DEPENDING ON YOUR CHOSEN MONSTER_RESILIENCE MODIFIER DURING WORLD GENERATION**
 
 ## What you'll experience: main features
 
-**1) Adds 15 structures ranging from gigantic to huge - huge crazed Ancient Castlelan Castle of a Cult, Abandoned Industrial Facilities infested with Aliens, Secret Organization Military heavily guarded Island, various Lush and Fortified Biomes with Guard Towers, Advanced Aliens' Mobile Bases with their Militia, all locations are infested by ALL kinds of monsters with GREAT rewards and bosses to fight**
+**1) Adds tons of structures ranging from gigantic to huge - Safety Base Central Hub with missions, huge crazed Ancient Castlelan Castle of a Cult, Abandoned Industrial Facility infested with Aliens, Secret Organization Military heavily guarded Island, various Lush and Fortified Biomes with Guard Towers, Advanced Mobile Base of Aliens with their Militia, all locations are infested by ALL kinds of monsters with GREAT rewards and bosses to fight**
 
-**2) New guns (including huge amount of both modern and hi-tech ranged weapons - 3 tiers of modern weapons, 4 tiers of hi-tech weapons which are capable of shooting laser, plasma, acid, electricity, tons of sleek and unique craftable ammo - BALLISTICS TOO), unique craftable and findable both classic, unique and hi-tech melee weapons (using all kinds of vanilla martial arts), new armor (4 tiers in total - 2 tiers of well-made strong BL9-infused survivor armor, 2 tiers of hi-tech BL9-infused survivor armor which buffs skills along with stats), tons of new artifacts of 3 tiers which buff skills along with stats**
+**2) New guns (including huge amount of both modern and hi-tech ranged weapons - 3 tiers of modern weapons, 4 tiers of hi-tech weapons which are capable of shooting laser, plasma, acid, electricity, tons of sleek and unique craftable ammo), unique craftable and findable both classic, unique and hi-tech melee weapons (using all kinds of vanilla martial arts), new armor (4 tiers in total - 2 tiers of well-made strong BL9-infused survivor armor, 2 tiers of hi-tech BL9-infused survivor armor which buffs skills along with stats), tons of new artifacts of 3 tiers which buff skills along with stats**
 
-**3) Dangerous monsters and bosses to fight - from cultist and heavily armed military roaming patrols to heavily mutated creatures, mutants, aliens, advanced aliens' militia and tough bosses inspired greatly by Resident Evil by Capcom and Half Life series creatures**
+**3) Dangerous monsters and bosses to fight - from cultist and heavily armed military roaming patrols to heavily mutated creatures, mutants, aliens, advanced aliens' militia and tough bosses inspired greatly by Resident Evil series by Capcom and Half Life series by Valve creatures**
 
 **4) Carefully and well-made linear balance system thanks to Tekker - you'll be slowly going from mid-game structures and monsters to end-game truly DANGEROUS locations and bosses with lots of valuable stuff to collect and craft**
 
