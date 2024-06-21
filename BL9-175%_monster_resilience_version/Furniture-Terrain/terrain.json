@@ -253,8 +253,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -283,8 +283,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -313,8 +313,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -343,8 +343,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -373,8 +373,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -403,8 +403,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -433,8 +433,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -463,8 +463,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -493,8 +493,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -523,8 +523,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -553,8 +553,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -655,8 +655,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -686,8 +686,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
@@ -717,8 +717,8 @@
       "ter_set_bashed_from_above": "t_rock_floor_no_roof",
       "items": [
         { "item": "rock", "count": [ 3, 7 ] },
-        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
-        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "coal_lump", "count": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "count": [ 10, 25 ], "prob": 80 },
         { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
         { "item": "material_rhodonite", "count": [ 0, 1 ], "prob": 3 },
         { "item": "material_zincite", "count": [ 0, 5 ], "prob": 5 }
